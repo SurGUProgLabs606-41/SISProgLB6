@@ -1,0 +1,32 @@
+Версия ОС:
+ProductName:		macOS
+ProductVersion:		15.6.1
+BuildVersion:		24G90
+
+Ядро:
+Darwin MacBook-Air-Nekori.local 24.6.0 Darwin Kernel Version 24.6.0: Mon Jul 14 11:30:34 PDT 2025; root:xnu-11417.140.69~1/RELEASE_ARM64_T8103 arm64
+
+Память:
+PhysMem: 15G used (1791M wired, 764M compressor), 593M unused.
+
+Процессор:
+Apple M1
+
+Диск:
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    17Gi   101Gi    15%    426k  1,1G    0%   /
+devfs            200Ki   200Ki     0Bi   100%     692     0  100%   /dev
+/dev/disk3s6     460Gi    20Ki   101Gi     1%       0  1,1G    0%   /System/Volumes/VM
+/dev/disk3s2     460Gi    14Gi   101Gi    13%    2,1k  1,1G    0%   /System/Volumes/Preboot
+/dev/disk3s4     460Gi   735Mi   101Gi     1%     307  1,1G    0%   /System/Volumes/Update
+/dev/disk2s2     500Mi   6,0Mi   483Mi     2%       1  4,9M    0%   /System/Volumes/xarts
+/dev/disk2s1     500Mi   5,6Mi   483Mi     2%      35  4,9M    0%   /System/Volumes/iSCPreboot
+/dev/disk2s3     500Mi   644Ki   483Mi     1%      53  4,9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     460Gi   325Gi   101Gi    77%    4,2M  1,1G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk3s1     460Gi    17Gi   101Gi    15%    453k  1,1G    0%   /System/Volumes/Update/mnt1
+
+Пользователь:
+nekori
+
+uid=501(nekori) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),701(com.apple.sharepoint.group.1),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae)

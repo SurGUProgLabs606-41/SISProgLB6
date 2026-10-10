@@ -1,0 +1,1034 @@
+Список процессов:
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root               366   4,5  0,2 411089200  28752   ??  Ss    8:27     0:35.62 /Library/Application Support/iStat Menus 6/iStatMenusDaemon
+nekori            8057   2,4  2,6 415156288 432240   ??  S     8:41     3:40.03 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word
+_windowserver      189   2,3  1,2 413356048 207616   ??  Ss    8:27    11:21.97 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+nekori             439   1,4  1,3 416679680 213232   ??  S     8:27     0:55.94 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+nekori            8244   1,1  0,8 412449408 140880   ??  S     9:00     1:04.56 /Applications/Happ.localized/Happ.app/Contents/MacOS/Happ
+nekori            8250   0,9  0,4 410479584  68816   ??  Ss    9:00     1:15.91 /Applications/Happ.localized/Happ.app/Contents/PlugIns/Tunnel.appex/Contents/MacOS/Tunnel -AppleLanguages ("ru-RU")
+_driverkit         345   0,8  0,2 426906592  34336   ??  Ss    8:27     0:38.36 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000a6e com.apple.DriverKit-AppleBCMWLAN
+nekori             418   0,5  0,0 426919216   7808   ??  S     8:27     0:06.32 /usr/sbin/cfprefsd agent
+nekori           15582   0,5  1,0 412134816 173280   ??  S    10:05     0:17.22 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+root               166   0,3  0,1 426957552  24672   ??  Ss    8:27     0:08.19 /usr/libexec/dasd
+root               364   0,2  0,5 411880256  85376   ??  S<s   8:27     0:15.02 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/RTProtectionDaemon.app/Contents/MacOS/RTProtectionDaemon -i Malwarebytes-Mac-4.17.8.4831.pkg
+nekori             583   0,2  0,8 412124224 139312   ??  R     8:27     0:36.02 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app/Contents/MacOS/logioptionsplus_agent --launchd
+root               190   0,2  0,1 426959280  20704   ??  Ss    8:27     0:03.79 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+nekori             586   0,2  0,3 411837104  43936   ??  S     8:27     1:17.77 /Library/Application Support/iStat Menus 6/iStat Menus Status.app/Contents/MacOS/iStat Menus Status
+root               329   0,1  0,0 410791088   7440   ??  Ss    8:27     0:05.26 /usr/libexec/audioclocksyncd
+root               180   0,1  0,1 426950688  15200   ??  Ss    8:27     0:06.91 /usr/libexec/corebrightnessd --launchd
+root               146   0,1  0,1 426950224   8496   ??  Ss    8:27     0:02.10 /usr/libexec/diskarbitrationd
+_mysql             369   0,1  1,2 411591056 198160   ??  Ss    8:27     0:13.71 /usr/local/mysql/bin/mysqld --user=_mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data --plugin-dir=/usr/local/mysql/lib/plugin --log-error=/usr/local/mysql/data/mysqld.local.err --pid-file=/usr/local/mysql/data/mysqld.local.pid --keyring-file-data=/usr/local/mysql/keyring/keyring --early-plugin-load=keyring_file=keyring_file.so
+nekori            8253   0,1  5,2 1924577936 872832   ??  S     9:00     5:17.09 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=31 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1473974401 --shared-files --metrics-shmem-handle=1752395122,r,17942405703799160706,1823825945206864672,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709015360168813 --seatbelt-client=59
+root               214   0,1  0,2 426956736  27552   ??  Ss    8:27     0:56.55 /usr/libexec/airportd
+root             22829   0,0  0,0 426913024   4048   ??  Ss   10:14     0:00.02 /System/Library/CoreServices/ReportCrash daemon
+root             22828   0,0  0,2 426950576  33616   ??  Ss   10:14     0:00.32 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+nekori           22756   0,0  0,2 426969728  25936   ??  S    10:13     0:00.62 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           22724   0,0  0,1 426951392   9728   ??  Ss   10:11     0:00.03 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+nekori           22719   0,0  0,1 426963648  15072   ??  Ss   10:11     0:00.12 /System/Library/ExtensionKit/Extensions/PackageThumbnailExtension.appex/Contents/MacOS/PackageThumbnailExtension
+nekori           22639   0,0  0,2 426980016  39328   ??  Ss   10:08     0:00.26 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root             22638   0,0  0,0 426950480   8160   ??  Ss   10:08     0:00.11 /usr/sbin/cupsd -l
+nekori           22637   0,0  0,1 426968144  19680   ??  S    10:08     0:00.31 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+nekori           22224   0,0  0,0 410789840   2816 s000  SN   10:05     0:00.06 -zsh
+nekori           22212   0,0  0,0 411052576   6880 s000  S    10:05     0:00.19 -zsh
+root             22211   0,0  0,0 410743728   6240 s000  Ss   10:05     0:00.02 login -pf nekori /bin/zsh
+nekori           15649   0,0  0,0 410789840   2960   ??  SN   10:05     0:00.07 -zsh
+nekori           15620   0,0  0,0 410789840   2800   ??  SN   10:05     0:00.07 -zsh
+nekori            9656   0,0  0,1 411150240  24576   ??  S    10:05     0:00.27 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+nekori            8950   0,0  0,0 410920912   3008   ??  SN   10:05     0:00.07 -zsh
+nekori            8847   0,0  0,0 410789840   2976   ??  SN   10:05     0:00.07 -zsh
+nekori            8719   0,0  0,1 411236928  20848   ??  Ss   10:02     0:00.19 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+nekori            8706   0,0  0,0 410623376   4432   ??  S    10:02     0:00.02 /Applications/Telegram.app/Contents/Helpers/crashpad_handler --database=/Users/nekori/Library/Application Support/Telegram Desktop/tdata/dumps --annotation=ApiId=2040 --annotation=Binary=Telegram.app --annotation=Launched=10.10.2026 10:02:18 --annotation=Platform=MacOS --annotation=UserTag=880b1adbb9ed947 --annotation=Version=7003000 --handshake-fd=4
+nekori            8704   0,0  0,1 426950432  12208   ??  S    10:02     0:00.08 /usr/libexec/biomesyncd
+nekori            8703   0,0  4,2 414184784 696640   ??  S    10:02     0:04.81 /Applications/Telegram.app/Contents/MacOS/Telegram -noupdate
+nekori            8687   0,0  0,2 427176320  33936   ??  Ss   10:01     0:00.35 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
+root              8658   0,0  0,1 426951408  13232   ??  Ss   10:00     0:00.15 /usr/libexec/wifivelocityd
+_audiomxd         8644   0,0  0,0 426916096   5568   ??  Ss   10:00     0:00.06 /usr/libexec/audiomxd
+nekori            8634   0,0  0,0 426950800   7968   ??  Ss    9:57     0:00.04 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+nekori            8626   0,0  0,0 410621904   2272   ??  S     9:57     0:00.02 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+nekori            8617   0,0  0,1 426951664  12336   ??  S     9:23     0:00.22 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+nekori            8607   0,0  0,1 426950016  12160   ??  S     9:23     0:00.07 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              8608   0,0  0,0 410621904   3408   ??  Ss    9:23     0:00.02 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+nekori            8604   0,0  0,1 426955232  19184   ??  S     9:23     0:00.33 cloudphotod
+nekori            8568   0,0  0,4 1924210256  61472   ??  S     9:21     0:00.16 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=51 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=2688933361 --shared-files --metrics-shmem-handle=1752395122,r,4099743757949388579,14507410051174495499,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709034101005793 --seatbelt-client=220
+nekori            8567   0,0  2,3 1924294768 382672   ??  S     9:21     0:13.53 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=2684687099 --shared-files --metrics-shmem-handle=1752395122,r,3513002043326749407,13208443355418134772,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708993808206286 --seatbelt-client=75
+root              8557   0,0  0,0 426924928   2144   ??  Ss    9:20     0:00.04 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+nekori            8554   0,0  0,1 426953168  10224   ??  S     9:20     0:00.12 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+nekori            8555   0,0  0,0 426950112   6512   ??  Ss    9:20     0:00.01 /System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices
+nekori            8551   0,0  0,4 461066672  63520   ??  S     9:20     0:00.74 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=csd_tflite_model.mojom.CSDTfLiteModelServiceFactory --lang=ru --service-sandbox-type=utility --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=tflite_model --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,13186796381063334950,14162832565519741120,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709032226922095 --seatbelt-client=75
+nekori            8401   0,0  0,1 411685472  21600   ??  S     9:12     0:00.71 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ColorSampler.xpc/Contents/MacOS/ColorSampler
+root              8386   0,0  0,0 426953696   5168   ??  Ss    9:11     0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+nekori            8376   0,0  0,1 426988640  20704   ??  Ss    9:10     0:00.19 /System/Library/ExtensionKit/Extensions/ImageThumbnailExtension.appex/Contents/MacOS/ImageThumbnailExtension
+nekori            8374   0,0  0,0 410172832   2224   ??  Ss    9:10     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8370   0,0  0,1 426902496  15520   ??  Ss    9:10     0:00.24 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+nekori            8368   0,0  0,4 411114016  71088   ??  Ss    9:10     0:01.04 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+nekori            8316   0,0  0,0 410172832   2736   ??  Ss    9:05     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8314   0,0  0,0 410294480   3344   ??  Ss    9:05     0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            8310   0,0  0,1 431446416  23952   ??  Ss    9:05     0:01.92 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+nekori            8309   0,0  0,3 431405984  50112   ??  Ss    9:05     0:02.43 /System/Library/ExtensionKit/Extensions/WebThumbnailExtension.appex/Contents/MacOS/WebThumbnailExtension
+nekori            8308   0,0  0,1 426962656  16960   ??  Ss    9:05     0:01.73 /System/Library/ExtensionKit/Extensions/OfficeThumbnailExtension.appex/Contents/MacOS/OfficeThumbnailExtension
+nekori            8307   0,0  0,0 426917264   8352   ??  Ss    9:05     0:00.56 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+nekori            8280   0,0  0,0 426950768   7248   ??  S     9:04     0:00.80 /usr/libexec/MTLAssetUpgraderD
+nekori            8281   0,0  0,0 410790272   6832   ??  S     9:04     0:00.04 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+nekori            8256   0,0  1,6 1924307840 260096   ??  S     9:01     0:05.64 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=33 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1483008993 --shared-files --metrics-shmem-handle=1752395122,r,8500270072758364483,8299317593994139865,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709017234252511 --seatbelt-client=64
+nekori            8255   0,0  0,1 410684208   8928   ??  Ss    9:00     0:00.08 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+nekori            8254   0,0  0,9 1928252592 153008   ??  S     9:00     0:04.01 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --yagp --mse-video-buffer-size-limit-mb=10 --mse-audio-buffer-size-limit-mb=1 --enable-ignition --enable-instaserp --skia-resource-cache-limit-mb=10 --skia-font-cache-limit-mb=1 --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=32 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1480683890 --shared-files --metrics-shmem-handle=1752395122,r,16792996257579062197,10641608068723130049,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709016297210662 --seatbelt-client=64
+nekori            8224   0,0  0,3 461008544  42800   ??  S     8:58     0:00.24 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=autofill.mojom.TflPredictionsService --lang=ru --service-sandbox-type=utility --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Autofill Tfl Predictions --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,7443342150487422835,10389339495579445693,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709010674959568 --seatbelt-client=62
+nekori            8223   0,0  0,1 426965392  21184   ??  S     8:57     0:00.60 /usr/libexec/tipsd
+nekori            8201   0,0  0,2 426956416  26768   ??  S     8:56     0:00.56 /System/iOSSupport/System/Library/PrivateFrameworks/HomeEnergyDaemon.framework/Support/homeenergyd
+nekori            8193   0,0  0,1 411350656  19984   ??  Ss    8:56     0:00.08 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+nekori            8191   0,0  1,3 1928264656 221648   ??  S     8:56     0:04.10 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1188272748 --shared-files --metrics-shmem-handle=1752395122,r,14569330342077112580,3070135743819871065,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708994745248135 --seatbelt-client=143
+nekori            8184   0,0  1,7 1924507744 280192   ??  S     8:56     0:23.88 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186956039 --shared-files --metrics-shmem-handle=1752395122,r,3236920922713259911,5415784147872062345,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708995682289984 --seatbelt-client=94
+nekori            8181   0,0  0,8 1924294496 141904   ??  S     8:56     0:01.22 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --ya-custo-process --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186910530 --shared-files --metrics-shmem-handle=1752395122,r,1302884425786569842,1268703893131397191,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708998493415531 --seatbelt-client=127
+nekori            8180   0,0  0,6 1924281808 106304   ??  S     8:56     0:00.46 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --ya-custo-process --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186902008 --shared-files --metrics-shmem-handle=1752395122,r,16461379702468053978,2165937154137037023,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708997556373682 --seatbelt-client=103
+nekori            8179   0,0  0,0 426917040   8016   ??  S     8:56     0:00.55 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+nekori            8178   0,0  0,0 426950016   7056   ??  S     8:56     0:00.08 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+nekori            8173   0,0  0,3 461054880  51184   ??  S     8:56     0:00.43 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=service --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Storage Service --shared-files --metrics-shmem-handle=1752395122,r,12493562412313087854,16989299784031052805,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708990060038890 --seatbelt-client=33
+nekori            8166   0,0  0,6 461246048  94288   ??  S     8:56     0:09.87 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=network --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Network Service --shared-files --metrics-shmem-handle=1752395122,r,15669824625023096609,15500044384032095609,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708989122997041 --seatbelt-client=19
+nekori            8165   0,0  0,9 461717088 149392   ??  S     8:56     1:17.69 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=gpu-process --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAOAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --gpu-process-kind=sandboxed --shared-files --metrics-shmem-handle=1752395122,r,14308444201024114489,16331936048619630397,262144 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708988185955192 --seatbelt-client=19
+nekori            8157   0,0  0,0 460480000   3600   ??  S     8:56     0:00.01 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/Crashpad --metrics-dir=/Users/nekori/Library/Application Support/Yandex/YandexBrowser --url=https://crash-reports.browser.yandex.net/submit --annotation=channel= --annotation=machine_id=8CED1CBE9D8D5990AF5BBFDC3DDBF5476CFEABE400000001D7 --annotation=main_process_pid=8153 --annotation=plat=OS X --annotation=prod=Yandex_Mac --annotation=ver=26.8.3.1016 --handshake-fd=5
+nekori            8155   0,0  0,0 410173856   1936   ??  Ss    8:56     0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8153   0,0  2,9 462044112 490112   ??  S     8:56     2:45.55 /Applications/Yandex.app/Contents/MacOS/Yandex
+nekori            8105   0,0  0,0 426916336   7968   ??  S     8:47     0:00.05 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+root              8075   0,0  0,0 426916704   3696   ??  Ss    8:41     0:00.06 /usr/libexec/betaenrollmentd
+root              8073   0,0  0,0 426950432   5280   ??  Ss    8:41     0:00.04 /usr/libexec/mmaintenanced
+nekori            8074   0,0  0,0 426950592   6272   ??  S     8:41     0:00.07 /usr/libexec/betaenrollmentagent
+nekori            8072   0,0  0,1 426954912  11520   ??  S     8:41     0:00.26 /usr/libexec/keyboardservicesd
+nekori            8070   0,0  1,5 428253008 255504   ??  S     8:41     0:03.32 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+nekori            8071   0,0  0,3 427028592  43696   ??  S     8:41     0:00.69 /usr/libexec/naturallanguaged
+nekori            8069   0,0  0,1 426902496  15280   ??  Ss    8:41     0:00.28 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+nekori            8068   0,0  0,4 411081696  68576   ??  Ss    8:41     0:01.21 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+nekori            8063   0,0  0,0 410156448   2576   ??  Ss    8:41     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8062   0,0  0,0 426916288   7824   ??  S     8:41     0:00.21 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+nekori            8061   0,0  0,1 426959088  17232   ??  S     8:41     0:00.33 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+nekori            8060   0,0  0,0 426916736   4528   ??  S     8:41     0:00.06 /usr/libexec/metrickitd
+nekori            8058   0,0  0,0 426950704   7376   ??  Ss    8:41     0:00.04 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+nekori            8056   0,0  0,0 410172832   2608   ??  Ss    8:41     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8043   0,0  0,0 426950848   6176   ??  S     8:41     0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+nekori            8039   0,0  0,0 410824336   6928   ??  Ss    8:41     0:00.09 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+nekori            8036   0,0  0,1 411192240  18224   ??  Ss    8:40     0:00.67 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+nekori            8033   0,0  0,0 410163616   2384   ??  Ss    8:40     0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori            8025   0,0  0,0 426916768   7424   ??  S     8:40     0:00.04 /usr/libexec/feedbackd
+nekori            8017   0,0  0,1 426953440   9520   ??  S     8:40     0:00.12 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+nekori            8010   0,0  0,1 426951792  15952   ??  S     8:40     0:00.13 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+nekori            7999   0,0  0,0 426917360   7360   ??  Ss    8:40     0:00.33 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+nekori            7998   0,0  0,1 427135440  20096   ??  S     8:40     0:00.66 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+nekori            7997   0,0  0,1 426954144  19616   ??  Ss    8:40     0:00.86 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+nekori            7996   0,0  0,1 426963472  18928   ??  S     8:40     0:00.50 /usr/libexec/mlhostd
+nekori            7995   0,0  0,2 426991712  33872   ??  S     8:40     0:13.75 /usr/libexec/duetexpertd
+root              7994   0,0  0,0 426918528   5904   ??  Ss    8:40     0:01.97 /usr/libexec/ASPCarryLog
+nekori            7993   0,0  0,1 426950352  10112   ??  S     8:40     0:00.20 /usr/libexec/inputanalyticsd
+root              7991   0,0  0,0 426949888   3408   ??  Ss    8:40     0:00.07 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              7992   0,0  0,0 426953984   4032   ??  Ss    8:40     0:00.07 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              7985   0,0  0,1 426949856  10576   ??  Ss    8:31     0:00.14 /usr/libexec/powerdatad
+root              7983   0,0  0,0 426951104   6256   ??  Ss    8:31     0:00.05 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectUpdateService.xpc/Contents/MacOS/XProtectUpdateService
+root              7982   0,0  0,0 426912704   3408   ??  Ss    8:31     0:00.04 /usr/libexec/tzd
+nekori            7981   0,0  0,1 411017792  21232   ??  S     8:30     0:00.26 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+nekori            7956   0,0  0,1 427116128  16480   ??  S     8:30     0:00.28 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+nekori            7955   0,0  0,2 426961568  38640   ??  S     8:30     0:00.96 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+nekori            7953   0,0  0,1 426952064   9952   ??  S     8:29     0:00.24 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+nekori            7948   0,0  0,0 426916880   6672   ??  S     8:29     0:00.08 /usr/libexec/keychainsharingmessagingd
+nekori            7947   0,0  0,2 426958448  32128   ??  S     8:29     0:05.54 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_rmd              7946   0,0  0,0 410885168   5616   ??  Ss    8:29     0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+_rmd              7945   0,0  0,0 410753424   5632   ??  Ss    8:29     0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+_rmd              7944   0,0  0,0 410754048   7760   ??  Ss    8:29     0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd              7943   0,0  0,0 410753456   5568   ??  Ss    8:29     0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_rmd              7942   0,0  0,0 410753472   5584   ??  Ss    8:29     0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd              7941   0,0  0,0 410753440   4992   ??  Ss    8:29     0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_rmd              7938   0,0  0,1 410753952   8560   ??  Ss    8:29     0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+nekori            7937   0,0  0,1 426962544  23056   ??  Ss    8:29     0:00.10 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension
+_rmd              7935   0,0  0,0 410884496   4960   ??  Ss    8:29     0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+nekori            7936   0,0  0,1 426962784  12528   ??  Ss    8:29     0:00.12 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension
+nekori            7934   0,0  0,1 426963360  13648   ??  Ss    8:29     0:00.07 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+_rmd              7932   0,0  0,0 426916640   2080   ??  S     8:29     0:00.39 /usr/sbin/distnoted agent
+nekori            7933   0,0  0,0 426917360   6192   ??  Ss    8:29     0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+_rmd              7931   0,0  0,0 411015632   6192   ??  Ss    8:29     0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+nekori            7929   0,0  0,0 426912752   2064   ??  S     8:29     0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+_rmd              7930   0,0  0,1 426951840   8928   ??  Ss    8:29     0:00.15 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+root              7928   0,0  0,0 410754320   3728   ??  Ss    8:29     0:00.03 /usr/libexec/online-auth-agent
+nekori            7926   0,0  0,1 426953792  20640   ??  S     8:29     0:00.36 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+nekori            7927   0,0  0,1 426950048   9296   ??  S     8:29     0:00.32 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+root              7895   0,0  0,0 426950112   5536   ??  Ss    8:28     0:00.12 /usr/libexec/triald_system
+nekori            7894   0,0  0,0 410681136   5872   ??  Ss    8:28     0:00.04 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+nekori            7893   0,0  0,0 410663728   5856   ??  Ss    8:28     0:00.04 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+nekori            7892   0,0  0,0 410435792   2416   ??  Ss    8:28     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7891   0,0  0,0 410306768   2416   ??  Ss    8:28     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7890   0,0  0,0 410289360   2416   ??  Ss    8:28     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7889   0,0  0,0 410289360   2416   ??  Ss    8:28     0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7888   0,0  0,0 410313936   2416   ??  Ss    8:28     0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7887   0,0  0,1 410607264  12912   ??  Ss    8:28     0:00.06 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("ru-RU")
+root              7886   0,0  0,0 426916144   3120   ??  Ss    8:28     0:00.02 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+nekori            7885   0,0  0,1 410477152  13840   ??  Ss    8:28     0:00.07 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("ru-RU")
+nekori            7882   0,0  0,0 410884720   2848   ??  Ss    8:28     0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AUCrashHandlerService.xpc/Contents/MacOS/AUCrashHandlerService
+nekori            7884   0,0  0,1 410359312  10224   ??  Ss    8:28     0:00.03 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("ru-RU")
+nekori            7883   0,0  0,1 410371024  10496   ??  Ss    8:28     0:00.03 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("ru-RU")
+nekori            7881   0,0  0,0 410304720   2400   ??  Ss    8:28     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori            7880   0,0  0,0 34046044   2180   ??  Ss    8:28     0:00.23 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("ru-RU")
+nekori            7879   0,0  0,1 410238432  10560   ??  Ss    8:28     0:00.04 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("ru-RU")
+nekori            7872   0,0  0,0 410164128   3072   ??  Ss    8:28     0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+nekori            7876   0,0  0,1 426928640  11824   ??  Ss    8:28     0:00.02 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+nekori            7875   0,0  0,1 426928496  14016   ??  Ss    8:28     0:00.05 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+nekori            7874   0,0  0,1 426962000  13584   ??  Ss    8:28     0:00.02 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+nekori            7873   0,0  0,1 426928496  12560   ??  Ss    8:28     0:00.04 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+nekori            7871   0,0  0,1 426951424  12528   ??  S     8:28     0:00.14 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+nekori            7870   0,0  0,1 426953632  17520   ??  S     8:28     0:00.33 /usr/libexec/adprivacyd
+nekori            7869   0,0  0,0 426917264   6272   ??  Ss    8:28     0:00.10 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+nekori            7868   0,0  0,1 410799120  17792   ??  Ss    8:28     0:00.23 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+nekori            7858   0,0  0,1 427071744  13696   ??  S     8:28     0:01.11 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+nekori            7855   0,0  0,1 426950432   9120   ??  S     8:28     0:00.09 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+nekori            7852   0,0  0,0 410754208   5936   ??  S     8:28     0:00.10 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+_softwareupdate   7838   0,0  0,0 410604000   1424   ??  S     8:28     0:00.02 /System/Library/PrivateFrameworks/Install.framework/Frameworks/DistributionKit.framework/Versions/A/XPCServices/DistributionHelper.xpc/Contents/MacOS/DistributionHelper
+nekori            7833   0,0  0,1 426950480  11856   ??  S     8:28     0:00.27 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+_fpsd             7831   0,0  0,1 426988384  17600   ??  Ss    8:28     0:02.77 /usr/libexec/fairplaydeviceidentityd
+nekori            7830   0,0  0,1 426952752  10128   ??  S     8:28     0:00.31 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+nekori            7829   0,0  0,1 426953568  15936   ??  S     8:28     0:00.38 /System/Cryptexes/App/usr/libexec/webinspectord
+nekori            7828   0,0  0,1 426958224  16784   ??  S     8:28     0:00.46 /usr/libexec/promotedcontentd
+nekori            7824   0,0  0,0 426916720   3104   ??  S     8:28     0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+nekori            7820   0,0  0,4 431530512  62592   ??  Ss    8:28     0:01.08 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_softwareupdate   7817   0,0  0,0 426916720   2896   ??  S     8:28     0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+root              7814   0,0  0,0 410790848   3792   ??  Ss    8:28     0:00.05 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd  7813   0,0  0,0 426917056   5440   ??  Ss    8:28     0:00.07 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+_softwareupdate   7812   0,0  0,0 426916688   2288   ??  S     8:28     0:00.06 /usr/sbin/cfprefsd agent
+_softwareupdate   7811   0,0  0,0 426916816   3392   ??  S     8:28     0:00.77 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_softwareupdate   7810   0,0  0,3 431523616  57536   ??  Ss    8:28     0:00.46 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+root              7808   0,0  0,0 426916704   3424   ??  Ss    8:28     0:00.05 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+nekori            7807   0,0  0,0 426912624   2784   ??  S     8:28     0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+root              7806   0,0  0,0 426916704   3328   ??  Ss    8:28     1:02.88 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+nekori            7805   0,0  0,2 426989520  26128   ??  S     8:28     0:02.15 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+_neuralengine     7804   0,0  0,0 426950864   5200   ??  Ss    8:28     0:00.08 /usr/libexec/aneuserd
+nekori            7803   0,0  0,0 426950896   6800   ??  S     8:28     0:01.05 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root              7802   0,0  0,0 426953152   7600   ??  Ss    8:28     0:00.11 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777230.51109301.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+root              7801   0,0  0,0 426912608   2160   ??  Ss    8:28     0:00.17 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+nekori            7800   0,0  0,1 426949792   9488   ??  S     8:28     0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+_softwareupdate   7799   0,0  0,1 426952496  10912   ??  Ss    8:28     0:00.16 /usr/libexec/NRDUpdated
+nekori            7798   0,0  0,0 426916128   2432   ??  S     8:28     0:00.02 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+nekori            7797   0,0  0,1 426950656  12336   ??  S     8:28     0:00.22 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+nekori            7796   0,0  0,2 426958880  37136   ??  S     8:28     0:04.31 /usr/libexec/siriknowledged
+_assetcache       7795   0,0  0,0 426952624   7808   ??  Ss    8:28     0:00.14 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+root              7794   0,0  0,1 411053904  13888   ??  Ss    8:28     0:00.25 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_fpsd             7793   0,0  0,1 426932112  14128   ??  Ss    8:28     0:00.19 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+nekori             569   0,0  0,1 426952240  24992   ??  S     8:27     0:03.85 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+nekori             546   0,0  0,0 426917120   4864   ??  S     8:27     0:00.04 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+nekori             588   0,0  0,1 426952288  16640   ??  S     8:27     0:00.55 /System/Library/CoreServices/diagnostics_agent
+nekori            7782   0,0  0,1 411187056  12688   ??  Ss    8:28     0:00.24 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+nekori            7783   0,0  0,1 426955696  11312   ??  S     8:28     0:00.14 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+root               720   0,0  0,1 426954224  17680   ??  Ss    8:27     0:01.95 /System/Library/CoreServices/SubmitDiagInfo server-init
+nekori            7781   0,0  0,1 411221536  17120   ??  Ss    8:28     0:00.28 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+root               512   0,0  0,1 426950944  12144   ??  Ss    8:27     0:00.16 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+nekori            7779   0,0  0,2 411226192  35744   ??  Ss    8:28     0:00.41 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+root              7778   0,0  0,0 426916800   3264   ??  S     8:28     0:00.82 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+nekori            7777   0,0  0,0 426916736   5008   ??  S     8:28     0:00.25 /usr/libexec/gamecontrolleragentd
+_gamecontrollerd  7776   0,0  0,0 426916640   1824   ??  S     8:28     0:00.39 /usr/sbin/distnoted agent
+_applepay         7775   0,0  0,0 426916640   2080   ??  S     8:28     0:00.41 /usr/sbin/distnoted agent
+_applepay         7774   0,0  0,0 410781632   4256   ??  Ss    8:28     0:00.03 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+nekori            7773   0,0  0,1 426916240   8896   ??  S     8:28     0:00.07 /usr/libexec/findmydevice-user-agent
+nekori            7769   0,0  0,1 426950656   9504   ??  S     8:28     0:00.62 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+_applepay         7770   0,0  0,1 426952448  10688   ??  Ss    8:28     0:00.40 /usr/libexec/nfcd
+nekori            7768   0,0  0,1 410983776  16496   ??  S     8:28     0:00.28 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker -launchedbyvulcan /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/Creative Cloud Content Manager.node
+root              7764   0,0  0,0 426924352   3168   ??  Ss    8:28     0:00.09 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+nekori            7763   0,0  0,1 426955408  10448   ??  S     8:28     0:00.16 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+nekori             590   0,0  0,1 426971360  18384   ??  S     8:27     0:00.98 /usr/libexec/remindd
+nekori             581   0,0  0,1 426952976  11712   ??  S     8:27     0:00.26 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+nekori            7646   0,0  0,1 426950784   9232   ??  S     8:28     0:00.14 /usr/libexec/diagnosticextensionsd
+nekori            7647   0,0  0,1 426951968  21456   ??  S     8:28     0:02.19 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+nekori            7649   0,0  0,1 426956000  12768   ??  S     8:28     0:00.34 /System/Library/Frameworks/FinanceKit.framework/financed
+nekori            7648   0,0  0,3 410801696  53008   ??  S     8:28     0:02.07 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+nekori            7604   0,0  0,2 427126464  41616   ??  S     8:28     0:00.56 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+root              7606   0,0  0,0 426912208   2976   ??  Ss    8:28     0:00.02 /System/Library/PrivateFrameworks/FindMyMac.framework/Resources/FindMyMacd
+nekori             428   0,0  0,1 426952704  10720   ??  S     8:27     0:00.12 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+nekori            6693   0,0  0,4 412078096  62160   ??  S     8:27     0:05.93 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/Creative Cloud Content Manager.node /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../js/main.js
+root              6464   0,0  0,0 426917744   3360   ??  Ss    8:27     0:00.08 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+nekori            5306   0,0  0,2 426963280  26544   ??  SN    8:27     0:05.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+nekori             541   0,0  0,2 426974560  28800   ??  S     8:27     0:09.63 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+nekori             915   0,0  0,1 426964256  10272   ??  Ss    8:27     0:00.03 /System/Applications/Photos.app/Contents/PlugIns/PhotosReliveWidget.appex/Contents/MacOS/PhotosReliveWidget
+nekori             902   0,0  0,1 426965088  13088   ??  Ss    8:27     0:00.05 /System/Applications/Notes.app/Contents/PlugIns/com.apple.Notes.WidgetExtension.appex/Contents/MacOS/com.apple.Notes.WidgetExtension
+nekori             860   0,0  0,1 427129216  11824   ??  Ss    8:27     0:00.07 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/MacOS/SafariWidgetExtension
+nekori             836   0,0  0,1 426964544  23824   ??  Ss    8:27     0:00.07 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
+nekori             801   0,0  0,1 426965664  24000   ??  Ss    8:27     0:00.08 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+nekori             776   0,0  0,1 426964496  14464   ??  Ss    8:27     0:00.05 /System/Library/CoreServices/PeopleViewService.app/Contents/PlugIns/PeopleWidget_macOSExtension.appex/Contents/MacOS/PeopleWidget_macOSExtension
+nekori             770   0,0  0,1 411611648  10592   ??  Ss    8:27     0:00.93 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+nekori             768   0,0  0,0 410182048   2640   ??  Ss    8:27     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+nekori             763   0,0  0,1 426963440  15024   ??  S     8:27     0:00.22 /System/Library/CoreServices/ScopedBookmarkAgent
+nekori             755   0,0  0,1 426964736  14560   ??  Ss    8:27     0:00.06 /System/Applications/Reminders.app/Contents/PlugIns/RemindersWidgetExtension.appex/Contents/MacOS/RemindersWidgetExtension
+nekori             756   0,0  0,1 426956464  20528   ??  S     8:27     0:00.64 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+nekori             728   0,0  0,1 426964608  22560   ??  Ss    8:27     0:00.05 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetPeople.appex/Contents/MacOS/FindMyWidgetPeople
+nekori             721   0,0  0,1 426956240  16080   ??  S     8:27     0:00.49 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+nekori             717   0,0  0,0 426912768   3744   ??  S     8:27     0:00.03 /usr/libexec/spindump_agent
+root               712   0,0  0,2 426967648  40544   ??  Ss    8:27     0:01.71 /usr/sbin/spindump
+nekori             700   0,0  0,1 427003360  23184   ??  Ss    8:27     0:00.08 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget
+nekori             698   0,0  0,1 426964016  22992   ??  Ss    8:27     0:00.06 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+nekori             691   0,0  0,2 426984512  31840   ??  S     8:27     0:02.03 /usr/libexec/linkd
+_assetcache        688   0,0  0,0 426952560   7456   ??  Ss    8:27     0:00.07 /usr/libexec/AssetCache/AssetCache
+nekori             687   0,0  0,1 426952128  10432   ??  S     8:27     0:00.16 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+nekori             685   0,0  0,1 426951328  10512   ??  S     8:27     0:00.11 /usr/libexec/seserviced
+nekori             684   0,0  0,1 426916576   9424   ??  S     8:27     0:00.04 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+nekori             682   0,0  0,1 426917472   9232   ??  S     8:27     0:00.06 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+nekori             680   0,0  0,1 426968192  17472   ??  S     8:27     0:00.26 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+nekori             671   0,0  0,1 426963184   9696   ??  Ss    8:27     0:00.03 /System/Applications/Shortcuts.app/Contents/PlugIns/ShortcutsWidgetExtension.appex/Contents/MacOS/ShortcutsWidgetExtension
+nekori             672   0,0  0,1 426954384  12848   ??  S     8:27     0:00.24 /usr/libexec/swtransparencyd
+nekori             661   0,0  0,0 410920912   2656   ??  SN    8:27     0:00.27 -zsh
+nekori             648   0,0  0,1 426964624  22528   ??  Ss    8:27     0:00.05 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget
+nekori             636   0,0  0,1 426952176  14672   ??  S     8:27     0:01.58 /usr/libexec/swcd
+nekori             626   0,0  0,1 426964176  21648   ??  Ss    8:27     0:00.06 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetItems.appex/Contents/MacOS/FindMyWidgetItems
+nekori             620   0,0  0,1 426954032  20304   ??  S     8:27     0:00.63 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+nekori             615   0,0  0,2 431455568  32528   ??  S     8:27     0:08.53 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+nekori             591   0,0  0,1 426955840  17520   ??  S     8:27     0:00.48 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+root               612   0,0  0,0 410306304   2928   ??  Ss    8:27     0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+nekori             609   0,0  0,1 426955040  23168   ??  S     8:27     0:00.43 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+nekori             608   0,0  0,1 427017808  13776   ??  S     8:27     0:00.67 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+nekori             607   0,0  0,1 426955472  20352   ??  S     8:27     0:00.26 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+nekori             606   0,0  0,0 410454960   2704   ??  Ss    8:27     0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+nekori             605   0,0  0,0 426916224   5776   ??  S     8:27     0:00.05 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+nekori             604   0,0  0,1 426998368  22192   ??  S     8:27     0:01.16 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+_fpsd              603   0,0  0,0 426919840   5216   ??  Ss    8:27     0:00.52 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+nekori             602   0,0  0,3 426971760  46512   ??  S     8:27     0:01.86 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+nekori             601   0,0  0,2 426977024  32624   ??  S     8:27     0:03.06 /usr/libexec/searchpartyuseragent
+nekori             597   0,0  0,1 426963456  10528   ??  Ss    8:27     0:00.03 /System/Applications/Tips.app/Contents/PlugIns/TipsWidgetExtension.appex/Contents/MacOS/TipsWidgetExtension
+root               599   0,0  0,1 426951424   9568   ??  Ss    8:27     0:01.38 /usr/libexec/aned
+nekori             596   0,0  0,1 426980528  12032   ??  Ss    8:27     0:00.27 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+nekori             595   0,0  0,2 427046032  30496   ??  Ss    8:27     0:06.05 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+nekori             580   0,0  0,3 411651152  48400   ??  S     8:27     0:00.41 /Library/Application Support/iStat Menus 6/iStatMenusAgent.app/Contents/MacOS/iStatMenusAgent
+nekori             578   0,0  0,2 411786528  30752   ??  S     8:27     0:01.04 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/FrontendAgent.app/Contents/MacOS/FrontendAgent
+nekori             576   0,0  0,1 410873936  13520   ??  S     8:27     0:00.14 /Library/Application Support/Logitech.localized/LogiRightSightForWebcams/LogiRightSight.app/Contents/MacOS/LogiRightSight
+nekori             564   0,0  0,5 411924272  92080   ??  S     8:27     0:21.95 /opt/homebrew/opt/mongodb-community/bin/mongod --config /opt/homebrew/etc/mongod.conf
+nekori             594   0,0  0,4 427040112  72432   ??  Ss    8:27     0:01.34 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+nekori             555   0,0  0,2 427018512  39120   ??  Ss    8:27     0:00.61 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+nekori             575   0,0  0,0 426950736   4864   ??  S     8:27     0:00.12 /System/Library/Image Capture/Support/icdd
+nekori             566   0,0  0,1 426982976  24624   ??  S     8:27     0:00.52 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+nekori             565   0,0  0,3 426960896  44672   ??  S     8:27     0:02.70 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+nekori             563   0,0  0,1 426955920  14256   ??  S     8:27     0:00.14 /usr/libexec/milod
+nekori             589   0,0  0,4 411960816  61728   ??  S     8:27     0:01.61 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+nekori             584   0,0  0,1 410978208  15408   ??  S     8:27     0:00.19 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+root               593   0,0  0,1 426958784  17136   ??  Ss    8:27     0:04.17 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+nekori             562   0,0  0,1 426957600  24976   ??  S     8:27     0:00.99 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+nekori             561   0,0  0,1 426908128  12352   ??  S     8:27     0:00.14 /usr/libexec/avconferenced
+nekori             560   0,0  0,0 426912032   3712   ??  S     8:27     0:00.02 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+nekori             559   0,0  0,1 426966480  19408   ??  S     8:27     0:05.41 /usr/libexec/networkserviceproxy
+nekori             558   0,0  0,1 410634960  11488   ??  S     8:27     0:00.52 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+nekori             557   0,0  0,3 434416208  54848   ??  S     8:27     0:05.21 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+nekori             556   0,0  0,1 426959104   9680   ??  S     8:27     0:00.20 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+nekori             554   0,0  0,3 426989568  52944   ??  S     8:27     0:02.65 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+nekori             553   0,0  0,2 411406080  27888   ??  S     8:27     0:01.59 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+nekori             545   0,0  0,4 427249328  59328   ??  Ss    8:27     0:00.86 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+nekori             551   0,0  0,1 426961216  19072   ??  S     8:27     0:02.00 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+nekori             550   0,0  0,0 410762000   7936   ??  Ss    8:27     0:00.05 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+nekori             549   0,0  0,1 426958112  19024   ??  S     8:27     0:00.28 /usr/libexec/appleaccountd
+nekori             548   0,0  0,2 426960272  35472   ??  S     8:27     0:01.72 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+nekori             547   0,0  0,0 426949824   5776   ??  S     8:27     0:00.12 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+nekori             544   0,0  0,1 426928656  11424   ??  Ss    8:27     0:00.22 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+nekori             542   0,0  0,3 426957696  48832   ??  S     8:27     0:01.12 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+nekori             543   0,0  0,0 426950592   5248   ??  S     8:27     0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+root               540   0,0  0,1 426968000  16800   ??  Ss    8:27     0:00.39 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+nekori             539   0,0  0,1 426957440  14272   ??  S     8:27     0:00.27 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+nekori             538   0,0  0,0 426913024   3440   ??  S     8:27     0:00.03 /System/Library/CoreServices/ReportCrash agent
+nekori             537   0,0  0,1 426962400  16528   ??  Ss    8:27     0:00.64 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+nekori             536   0,0  0,0 426950576   8112   ??  S     8:27     0:00.21 /System/Library/CoreServices/pbs
+nekori             535   0,0  0,2 411544256  33888   ??  S     8:27     0:09.00 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+nekori             533   0,0  0,0 426917360   4960   ??  Ss    8:27     0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+nekori             534   0,0  0,3 411993200  54656   ??  S     8:27     0:03.41 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+nekori             527   0,0  0,4 427004272  67824   ??  S     8:27     0:02.14 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+nekori             526   0,0  0,1 426950432  12304   ??  S     8:27     0:00.34 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+nekori             529   0,0  0,0 426916288   3696   ??  S     8:27     0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+nekori             532   0,0  0,2 411382816  41392   ??  S     8:27     0:00.28 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+nekori             528   0,0  0,2 426987200  34416   ??  S     8:27     0:01.86 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+nekori             525   0,0  0,1 426957136  14704   ??  S     8:27     0:00.23 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+nekori             524   0,0  0,1 426953056  14672   ??  S     8:27     0:00.29 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+nekori             523   0,0  0,2 426973488  33616   ??  S     8:27     0:02.30 /usr/libexec/sharingd
+nekori             522   0,0  0,1 426950176   9424   ??  Ss    8:27     0:00.35 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+nekori             521   0,0  0,3 411890704  54256   ??  S     8:27     0:15.01 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+nekori             520   0,0  0,1 426973600  13568   ??  S     8:27     0:00.60 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+nekori             519   0,0  0,4 410903008  72544   ??  Ss    8:27     0:00.86 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+nekori             517   0,0  0,1 426952592  17760   ??  S     8:27     0:08.58 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+root               518   0,0  0,1 426953312  10032   ??  Ss    8:27     0:01.13 /usr/libexec/kernelmanager_helper
+nekori             516   0,0  0,1 426918016   8800   ??  S     8:27     0:00.26 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+nekori             515   0,0  0,3 427110896  43392   ??  S     8:27     0:06.10 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+root               514   0,0  0,0 426918176   3920   ??  Ss    8:27     0:00.03 /Library/Apple/System/Library/PrivateFrameworks/DeviceInterface.framework/Support/deviceinterfaced
+nekori             513   0,0  0,1 426951008  19824   ??  S     8:27     0:05.82 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+_oahd              511   0,0  0,0 426912816   1520   ??  Ss    8:27     0:00.02 /usr/libexec/rosetta/oahd
+nekori             510   0,0  0,0 34023856   1344   ??  Ss    8:27     0:00.83 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+nekori             508   0,0  0,1 426966176  22288   ??  S     8:27     0:02.46 /usr/libexec/replayd
+nekori             506   0,0  0,1 427058416  24464   ??  S     8:27     0:00.14 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+nekori             507   0,0  0,1 426949632   8528   ??  S     8:27     0:00.19 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+nekori             509   0,0  0,1 426949984  11088   ??  S     8:27     0:00.11 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+nekori             505   0,0  0,1 426957392  18640   ??  S     8:27     0:00.21 /usr/libexec/findmylocateagent
+nekori             503   0,0  0,1 426954752  14704   ??  S     8:27     0:00.09 /usr/libexec/intelligentroutingd
+_nearbyd           504   0,0  0,1 426961456  14448   ??  Ss    8:27     0:00.45 /usr/libexec/nearbyd
+nekori             499   0,0  0,2 426965680  26864   ??  S     8:27     0:01.16 /usr/libexec/transparencyd
+nekori             501   0,0  0,1 426964608  14080   ??  S     8:27     0:00.43 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+nekori             500   0,0  0,2 426970688  32096   ??  S     8:27     0:14.28 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+nekori             502   0,0  0,1 426950480  11520   ??  S     8:27     0:00.07 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+nekori             497   0,0  0,2 426953888  27440   ??  S     8:27     0:00.28 /System/Library/CoreServices/audioaccessoryd
+nekori             496   0,0  0,1 427407456  16960   ??  S     8:27     0:00.31 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+nekori             498   0,0  0,2 410908032  32144   ??  Ss    8:27     0:00.22 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+nekori             495   0,0  0,1 426950432   9744   ??  S     8:27     0:00.11 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+nekori             494   0,0  0,1 426958272  24192   ??  S     8:27     0:00.53 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+root               492   0,0  0,0 426951072   6496   ??  Ss    8:27     0:00.06 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+nekori             493   0,0  0,0 426917920   5744   ??  Ss    8:27     0:00.02 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root               491   0,0  0,0 426912656   3120   ??  Ss    8:27     0:00.02 /usr/libexec/wallpaperexportd
+root               490   0,0  0,1 426957424  10528   ??  Ss    8:27     0:00.45 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+nekori             485   0,0  0,1 426953392  22128   ??  S     8:27     0:01.63 /usr/libexec/triald
+nekori             488   0,0  0,1 426950752  11808   ??  S     8:27     0:00.11 /usr/libexec/icloudmailagent
+nekori             487   0,0  0,0 426946064   7984   ??  S     8:27     0:00.05 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+nekori             483   0,0  0,1 426961968   9456   ??  S     8:27     0:00.09 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+nekori             489   0,0  0,1 426951376  12864   ??  S     8:27     0:01.84 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+nekori             486   0,0  0,1 426979424  17712   ??  Ss    8:27     0:00.71 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("ru-RU")
+nekori             484   0,0  0,1 410499040  13040   ??  S     8:27     0:02.52 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+nekori             481   0,0  0,1 426957424  17104   ??  S     8:27     0:00.85 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+nekori             482   0,0  0,4 426989952  74576   ??  S     8:27     0:03.22 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+nekori             480   0,0  0,0 426917760   5136   ??  S     8:27     0:00.06 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+nekori             479   0,0  0,3 426978368  43536   ??  S     8:27     0:11.64 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+nekori             478   0,0  0,1 426966096  21888   ??  S     8:27     0:01.15 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+nekori             477   0,0  0,2 426979280  35120   ??  S     8:27     0:02.55 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+nekori             475   0,0  0,2 427011904  30864   ??  S     8:27     0:00.58 /System/Library/CoreServices/iconservicesagent
+_appleevents       462   0,0  0,0 426916640   1856   ??  S     8:27     0:00.40 /usr/sbin/distnoted agent
+nekori             469   0,0  0,3 427137344  43392   ??  S     8:27     0:01.73 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+nekori             467   0,0  0,2 427110080  41488   ??  S     8:27     0:00.30 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+nekori             473   0,0  0,1 426955648  16448   ??  S     8:27     0:14.49 /usr/libexec/trustd --agent
+nekori             468   0,0  0,1 426950448  11936   ??  S     8:27     0:00.13 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+nekori             472   0,0  0,2 426969040  30448   ??  S     8:27     0:00.99 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+nekori             465   0,0  0,1 426951344  14832   ??  S     8:27     0:00.31 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+nekori             471   0,0  0,1 426962848  18000   ??  S     8:27     0:03.52 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+nekori             470   0,0  0,2 426970304  25952   ??  S     8:27     0:01.43 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+nekori             466   0,0  0,1 426953440  15616   ??  S     8:27     0:00.37 /System/Library/CoreServices/sharedfilelistd
+nekori             463   0,0  0,0 426916816   4688   ??  S     8:27     0:01.08 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+nekori             461   0,0  0,3 427170688  46960   ??  S     8:27     0:02.16 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+root               464   0,0  0,0 426917920   2416   ??  Ss    8:27     0:00.02 automountd
+nekori             460   0,0  0,2 411402384  27328   ??  S     8:27     0:00.51 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+root               459   0,0  0,1 426965344  20880   ??  Ss    8:27     0:02.68 /usr/sbin/filecoordinationd
+nekori             458   0,0  0,1 426967712  10880   ??  S     8:27     0:01.31 /usr/libexec/secinitd
+nekori             451   0,0  0,2 426955168  25216   ??  S     8:27     0:06.29 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+nekori             449   0,0  0,1 426964192  22576   ??  S     8:27     0:00.39 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+nekori             455   0,0  0,1 426953584  21072   ??  S     8:27     0:00.80 /usr/sbin/usernoted
+nekori             456   0,0  0,2 426975536  30224   ??  S     8:27     0:01.66 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+nekori             448   0,0  0,1 426972256  24400   ??  S     8:27     0:08.09 /usr/libexec/nsurlsessiond
+nekori             452   0,0  0,0 426916752   5216   ??  S     8:27     0:00.02 /System/Library/CoreServices/APFSUserAgent
+nekori             450   0,0  0,0 426950624   7984   ??  S     8:27     0:00.92 /System/Library/CoreServices/lockoutagent
+nekori             447   0,0  0,1 426955712  11840   ??  S     8:27     0:00.23 /usr/libexec/dmd
+nekori             445   0,0  0,1 426951376  13632   ??  S     8:27     0:00.11 /usr/libexec/ContinuityCaptureAgent server
+nekori             446   0,0  0,1 426949312  12144   ??  S     8:27     0:01.22 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+nekori             454   0,0  0,5 427494224  86128   ??  S     8:27     0:02.32 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+nekori             444   0,0  0,2 426962016  26752   ??  S     8:27     0:01.04 /usr/libexec/rapportd
+nekori             453   0,0  0,1 426902496  15520   ??  Ss    8:27     0:00.30 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+_gamecontrollerd   421   0,0  0,0 426916864   6176   ??  Ss    8:27     0:00.27 /usr/libexec/gamecontrollerd
+nekori             443   0,0  0,1 426964576  25088   ??  S     8:27     0:05.94 /usr/libexec/secd
+nekori             442   0,0  0,0 426916704   3856   ??  S     8:27     0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+nekori             438   0,0  0,3 411384544  46832   ??  S     8:27     0:00.38 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+nekori             436   0,0  0,1 426964336  20544   ??  S     8:27     0:02.00 /usr/libexec/lsd
+nekori             433   0,0  0,1 426967760  17456   ??  S     8:27     0:04.01 /System/Library/CoreServices/talagentd
+nekori             437   0,0  0,5 412051696  77472   ??  S     8:27     0:28.65 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+nekori             435   0,0  0,3 411850784  46672   ??  S     8:27     0:09.69 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+nekori             434   0,0  0,3 411809312  44016   ??  S     8:27     0:54.80 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+nekori             432   0,0  0,1 426968448  16256   ??  S     8:27     0:00.23 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+nekori             431   0,0  0,1 426961856  16320   ??  S     8:27     0:00.62 /usr/libexec/pkd
+nekori             430   0,0  0,1 426929440  11024   ??  S     8:27     0:00.45 /usr/libexec/pboard
+nekori             429   0,0  0,1 410695840  13872   ??  S     8:27     0:00.10 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+nekori             426   0,0  0,2 426963024  29920   ??  S     8:27     0:00.66 /usr/libexec/knowledge-agent
+nekori             427   0,0  0,1 426963824  14352   ??  S     8:27     0:00.77 /usr/libexec/neagent
+nekori             420   0,0  0,1 426952992  21072   ??  S     8:27     0:01.71 /usr/libexec/UserEventAgent (Aqua)
+nekori             424   0,0  0,3 411794400  46960   ??  S     8:27     0:00.96 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+nekori             425   0,0  0,1 411761328  24080   ??  S     8:27     0:03.42 /usr/sbin/universalaccessd launchd -s
+_applepay          422   0,0  0,1 426916496   8512   ??  Ss    8:27     0:00.13 /usr/libexec/seld
+root               419   0,0  0,0 426916720   2400   ??  Ss    8:27     0:00.06 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+nekori             417   0,0  0,0 426917200   5280   ??  S     8:27     0:05.93 /usr/sbin/distnoted agent
+root               416   0,0  0,0 426916224   1584   ??  Ss    8:27     0:00.05 /usr/libexec/applekeystored
+root               412   0,0  0,0 426917824   4448   ??  Ss    8:27     0:00.08 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+_driverkit         409   0,0  0,0 426851568    912   ??  Ss    8:27     0:00.02 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000b41 com.apple.IOUserBluetoothSerialDriver
+_netbios           408   0,0  0,0 426950288   5840   ??  SNs   8:27     0:00.19 /usr/sbin/netbiosd
+_captiveagent      407   0,0  0,0 426951216   7168   ??  Ss    8:27     0:00.14 /usr/libexec/captiveagent
+root               406   0,0  0,1 411181744  16128   ??  Ss    8:27     0:00.55 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+root               405   0,0  0,1 411186208  11472   ??  Ss    8:27     0:00.41 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_accessoryupdater   401   0,0  0,0 426916928   3680   ??  Ss    8:27     0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/ThunderboltAccessoryUpdaterService.xpc/Contents/MacOS/ThunderboltAccessoryUpdaterService
+root               400   0,0  0,0 426950928   6592   ??  Ss    8:27     0:00.12 /usr/libexec/countryd
+_accessoryupdater   392   0,0  0,0 410655136   5056   ??  Ss    8:27     0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDFU.xpc/Contents/MacOS/UARPUpdaterServiceDFU
+_accessoryupdater   391   0,0  0,0 410752848   3760   ??  Ss    8:27     0:00.05 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceAFU.xpc/Contents/MacOS/UARPUpdaterServiceAFU
+_accessoryupdater   389   0,0  0,0 410787760   5664   ??  Ss    8:27     0:00.07 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+_accessoryupdater   388   0,0  0,0 426950128   6144   ??  Ss    8:27     0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+_accessoryupdater   390   0,0  0,0 426916336   3984   ??  Ss    8:27     0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+_accessoryupdater   387   0,0  0,0 426957072   6256   ??  Ss    8:27     0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+root               393   0,0  0,1 411055312  10560   ??  Ss    8:27     0:00.12 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777230.45886078.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.UpdateBrainService
+_nsurlsessiond     397   0,0  0,0 426917200   1776   ??  S     8:27     0:00.42 /usr/sbin/distnoted agent
+root               398   0,0  0,0 426950624   7488   ??  Ss    8:27     0:00.18 /usr/libexec/wifianalyticsd
+root               396   0,0  0,0 426951104   6016   ??  Ss    8:27     0:00.06 /System/Library/CoreServices/iconservicesagent runAsRoot
+root               395   0,0  0,0 426950560   4320   ??  Ss    8:27     0:00.29 /usr/libexec/xpcroleaccountd -launchd
+_accessoryupdater   386   0,0  0,0 426916640   2032   ??  S     8:27     0:00.43 /usr/sbin/distnoted agent
+root               385   0,0  0,1 426965056  17728   ??  Ss    8:27     0:03.71 /usr/libexec/gamepolicyd
+root               383   0,0  0,0 426951920   5840   ??  S     8:27     0:00.06 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               379   0,0  0,0 410446400   4208   ??  Ss    8:27     0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root               378   0,0  0,1 426956944  13584   ??  Ss    8:27     0:01.54 /usr/libexec/wifip2pd
+root               377   0,0  0,1 411746448  12944   ??  Ss    8:27     0:00.79 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/SettingsDaemon.app/Contents/MacOS/SettingsDaemon
+root               376   0,0  0,0 426916352   3232   ??  Ss    8:27     0:00.67 /usr/libexec/sysmond
+root               375   0,0  0,0 426950880   6720   ??  Ss    8:27     0:01.41 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root               198   0,0  0,0 426916160   2560   ??  Ss    8:27     0:00.08 /usr/libexec/usbd
+root               373   0,0  0,0 411884336   6944   ??  Ss    8:27     0:00.03 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root               372   0,0  0,2 411806064  32416   ??  Ss    8:27     0:06.70 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app/Contents/Frameworks/logioptionsplus_updater.app/Contents/MacOS/logioptionsplus_updater
+root               371   0,0  0,0 410635680   4992   ??  Ss    8:27     0:00.32 /Library/Application Support/iStat Menus 6/iStatMenusFans
+root               363   0,0  0,1 426955440  13632   ??  Ss    8:27     0:00.95 /usr/libexec/rtcreportingd
+_ctkd              362   0,0  0,0 426916848   3424   ??  Ss    8:27     0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+root               361   0,0  0,0 426951584   5472   ??  Ss    8:27     0:00.08 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+root               360   0,0  0,0 426916576   6672   ??  Ss    8:27     0:00.07 /usr/sbin/BTLEServer
+_cmiodalassistants   359   0,0  0,0 426949312   7632   ??  S     8:27     0:00.08 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_cmiodalassistants   357   0,0  0,1 426952752  10992   ??  S     8:27     0:00.19 /usr/libexec/trustd --agent
+root               356   0,0  0,1 426965136  11056   ??  Ss    8:27     0:00.11 /usr/sbin/systemsoundserverd
+_cmiodalassistants   355   0,0  0,0 426916688   5712   ??  S     8:27     0:00.05 /usr/sbin/cfprefsd agent
+_cmiodalassistants   351   0,0  0,0 426951200   8144   ??  S     8:27     0:00.07 /usr/libexec/secinitd
+_cmiodalassistants   350   0,0  0,1 426954592  14656   ??  S     8:27     0:00.42 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_softwareupdate    346   0,0  0,0 426916640   3024   ??  S     8:27     0:00.48 /usr/sbin/distnoted agent
+root               348   0,0  0,0 426916256   5312   ??  Ss    8:27     0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+_driverkit         347   0,0  0,0 426851696   1584   ??  Ss    8:27     0:00.18 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000a6f com.apple.AppleUserHIDDrivers
+_driverkit         344   0,0  0,0 426851504   1456   ??  Ss    8:27     0:00.02 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000a62 com.apple.DriverKit-IOUserDockChannelSerial
+root               343   0,0  0,2 426975328  26512   ??  Ss    8:27     0:00.43 /usr/libexec/searchpartyd
+root               342   0,0  0,1 426951056  16848   ??  Ss    8:27     0:00.12 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               341   0,0  0,1 426950192   9152   ??  Ss    8:27     0:00.12 /usr/libexec/mobileactivationd
+root               338   0,0  0,1 426951296  16576   ??  Ss    8:27     0:00.77 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+root               337   0,0  0,1 426950960  10512   ??  Ss    8:27     0:00.22 /usr/libexec/audioanalyticsd
+_modelmanagerd     336   0,0  0,1 426977632  23232   ??  Ss    8:27     0:00.28 /usr/libexec/modelmanagerd
+_coreaudiod        334   0,0  0,0 426949984   6624   ??  Ss    8:27     0:00.02 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+root               330   0,0  0,1 426967488  13360   ??  Ss    8:27     0:01.13 /usr/libexec/storagekitd
+root               331   0,0  0,0 426913520   5584   ??  Ss    8:27     0:00.03 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root               328   0,0  0,0 426916160   6848   ??  Ss    8:27     0:00.05 /usr/libexec/bootinstalld
+_coreaudiod        327   0,0  0,0 410294480   6320   ??  Ss    8:27     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               326   0,0  0,1 426950048  11120   ??  Ss    8:27     0:03.35 /usr/libexec/findmybeaconingd
+root               325   0,0  0,1 426950624   9008   ??  Ss    8:27     0:00.24 /usr/libexec/securityd_system
+_cmiodalassistants   324   0,0  0,1 426950832  10912   ??  Ss    8:27     0:00.10 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   322   0,0  0,0 426949712   7904   ??  Ss    8:27     0:00.06 /usr/libexec/cameracaptured
+root               321   0,0  0,1 426952000  11568   ??  Ss    8:27     0:01.45 /usr/sbin/WirelessRadioManagerd
+root               323   0,0  0,0 426916736   8048   ??  Ss    8:27     0:00.07 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root               320   0,0  0,4 426960560  60496   ??  Ss    8:27     0:13.58 /usr/libexec/syspolicyd
+_coreaudiod        318   0,0  0,0 410201328   5776   ??  Ss    8:27     0:00.14 Core Audio Driver (TVRemoteAudio.driver)
+_coreaudiod        319   0,0  0,0 410173760   3552   ??  Ss    8:27     0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_appleevents       317   0,0  0,1 426950848   9984   ??  Ss    8:27     0:00.18 /System/Library/CoreServices/appleeventsd --server
+_cmiodalassistants   315   0,0  0,1 426954544  12832   ??  Ss    8:27     0:00.40 /usr/sbin/appleh13camerad
+_softwareupdate    312   0,0  0,3 431398960  42480   ??  Ss    8:27     0:08.09 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root               309   0,0  0,1 426951824   8576   ??  Ss    8:27     0:00.51 /System/Library/CoreServices/TimeMachine/backupd
+root               308   0,0  0,0 426954336   5424   ??  Ss    8:27     0:00.16 /usr/libexec/symptomsd-diag
+root               193   0,0  0,0 426912640   1808   ??  Ss    8:27     0:00.02 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+root               213   0,0  0,0 426916448   6032   ??  Ss    8:27     0:00.12 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+_spotlight         299   0,0  0,0 426916640   4128   ??  S     8:27     0:00.42 /usr/sbin/distnoted agent
+_locationd         298   0,0  0,0 426949312   7136   ??  S     8:27     0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               297   0,0  0,1 426950496  14336   ??  Ss    8:27     0:00.69 /System/Library/CoreServices/osanalyticshelper server-init
+root               296   0,0  0,1 426964016  17312   ??  Ss    8:27     0:00.54 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root               294   0,0  1,0 435677168 163216   ??  Ss    8:27     0:17.81 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+_locationd         293   0,0  0,1 426952752  10720   ??  S     8:27     0:00.15 /usr/libexec/trustd --agent
+_locationd         292   0,0  0,0 426916688   4960   ??  S     8:27     0:00.04 /usr/sbin/cfprefsd agent
+root               291   0,0  0,0 426916128   6240   ??  Ss    8:27     0:00.04 /usr/libexec/colorsyncd
+root               289   0,0  0,0 426912592   3280   ??  Ss    8:27     0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+_cmiodalassistants   288   0,0  0,0 426916640   4272   ??  S     8:27     0:00.43 /usr/sbin/distnoted agent
+_locationd         286   0,0  0,0 426951200   7264   ??  S     8:27     0:00.06 /usr/libexec/secinitd
+root               287   0,0  0,0 426916192   4400   ??  Ss    8:27     0:00.03 /usr/libexec/colorsync.displayservices
+_locationd         281   0,0  0,1 426954592  15264   ??  S     8:27     0:00.51 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_locationd         282   0,0  0,0 426916080   5216   ??  S     8:27     0:00.36 /usr/sbin/distnoted agent
+root               283   0,0  0,0 411446192   6240   ??  Ss    8:27     0:00.07 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+root               272   0,0  0,1 426916672   8464   ??  Ss    8:27     0:00.47 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               257   0,0  0,0 410173856   3472   ??  Ss    8:27     0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               247   0,0  0,1 426951568  10496   ??  Ss    8:27     0:00.10 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+root               240   0,0  0,1 426950704   8848   ??  Ss    8:27     0:00.22 /usr/sbin/mDNSResponderHelper
+_windowserver      229   0,0  0,0 426916640   4384   ??  S     8:27     0:00.44 /usr/sbin/distnoted agent
+root               236   0,0  0,0 426916320   5392   ??  Ss    8:27     0:00.02 /usr/libexec/ApplicationFirewall/socketfilterfw
+_networkd          232   0,0  0,1 426968576  19936   ??  Ss    8:27     0:05.26 /usr/libexec/symptomsd
+root               235   0,0  0,1 426951184   9040   ??  Ss    8:27     0:00.06 /usr/libexec/secinitd
+root               234   0,0  0,1 426951664  12160   ??  Ss    8:27     0:00.63 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               233   0,0  0,0 426916384   5056   ??  Ss    8:27     0:00.04 /usr/libexec/logd_helper
+_biome             227   0,0  0,1 426950096  15440   ??  Ss    8:27     0:00.41 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               228   0,0  0,1 426951264  14112   ??  Ss    8:27     0:00.12 /usr/libexec/findmydeviced
+_mdnsresponder     226   0,0  0,1 427043904  20480   ??  Ss    8:27     0:06.99 /usr/sbin/mDNSResponder
+_coreaudiod        224   0,0  0,0 426916640   5424   ??  S     8:27     0:00.44 /usr/sbin/distnoted agent
+_analyticsd        199   0,0  0,1 426960976  22080   ??  Ss    8:27     0:01.98 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               222   0,0  0,1 426955232  11280   ??  Ss    8:27     0:00.37 /usr/libexec/eligibilityd
+_hidd              223   0,0  0,0 426916128   4224   ??  Ss    8:27     0:00.05 /usr/libexec/hidd
+root               219   0,0  0,1 426949472   9216   ??  Ss    8:27     0:00.10 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               211   0,0  0,0 426916640   5680   ??  S     8:27     0:00.52 /usr/sbin/distnoted agent
+root               201   0,0  0,0 426912608   3584   ??  S     8:27     0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+_coreaudiod        217   0,0  0,3 426970192  49280   ??  Ss    8:27     0:04.06 /usr/sbin/coreaudiod
+root               216   0,0  0,0 411085024   8256   ??  Ss    8:27     0:00.11 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               215   0,0  0,1 426950528  16464   ??  Ss    8:27     0:00.13 /usr/libexec/PowerUIAgent
+root               207   0,0  0,3 426962064  54816   ??  Ss    8:27     0:34.25 /usr/libexec/mobileassetd
+_accessoryupdater   125   0,0  0,1 426952464  10384   ??  Ss    8:27     0:09.93 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+_softwareupdate    136   0,0  0,1 426955792  11312   ??  Ss    8:27     0:00.54 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_iconservices      144   0,0  0,0 426950464   5344   ??  Ss    8:27     0:00.08 /System/Library/CoreServices/iconservicesd
+root               208   0,0  0,0 426950464   8336   ??  Ss    8:27     0:00.04 /usr/libexec/trustdFileHelper
+root               203   0,0  0,0 426950336   7856   ??  Ss    8:27     0:00.05 /usr/libexec/powerexperienced
+root               205   0,0  0,0 410614656   4192   ??  Ss    8:27     0:00.03 /usr/libexec/cryptexd
+root               200   0,0  0,1 426951696  12304   ??  Ss    8:27     0:00.19 /usr/libexec/biometrickitd --launchd
+_trustd            197   0,0  0,1 426956528  19744   ??  Ss    8:27     0:44.80 /usr/libexec/trustd
+_nsurlsessiond     195   0,0  0,1 426954848  18624   ??  Ss    8:27     0:00.80 /usr/libexec/nsurlsessiond --privileged
+root               196   0,0  0,1 426950432  15680   ??  Ss    8:27     0:02.25 /usr/libexec/nehelper
+root               194   0,0  0,0 426916256   4624   ??  Ss    8:27     0:00.07 /usr/libexec/apfsd
+root               192   0,0  0,2 426963232  25312   ??  Ss    8:27     0:01.66 /usr/libexec/lsd runAsRoot
+_locationd         162   0,0  0,2 427053584  34592   ??  Ss    8:27     0:13.99 /usr/libexec/locationd
+root               191   0,0  0,1 426940096  13024   ??  Ss    8:27     0:00.32 /System/Library/CoreServices/coreservicesd
+_corespeechd       137   0,0  0,0 410672912   5184   ??  Ss    8:27     0:00.03 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd_system
+_usbmuxd           159   0,0  0,1 426960544   9680   ??  Ss    8:27     0:00.15 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               188   0,0  0,2 426966224  25488   ??  Ss    8:27     0:26.68 /usr/libexec/runningboardd
+_timed             158   0,0  0,0 426950448   7536   ??  Ss    8:27     0:00.25 /usr/libexec/timed
+_distnote          168   0,0  0,0 426916640   7216   ??  Ss    8:27     0:03.48 /usr/sbin/distnoted daemon
+nekori             186   0,0  0,5 412035472  85232   ??  Ss    8:27     0:04.44 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               185   0,0  0,1 426918080   9824   ??  Ss    8:27     0:05.71 /usr/sbin/cfprefsd daemon
+root               184   0,0  0,1 426964224  22048   ??  Ss    8:27     0:04.35 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               129   0,0  0,0 426912656   3264   ??  Ss    8:27     0:00.02 /usr/libexec/IOMFB_bics_daemon
+root               149   0,0  0,2 426970160  27312   ??  Ss    8:27     0:03.12 /usr/libexec/coreduetd
+root               120   0,0  0,1 426957536  19792   ??  Ss    8:27     0:00.70 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               170   0,0  0,2 426970224  36944   ??  Ss    8:27     0:20.74 /usr/libexec/PerfPowerServices
+root               175   0,0  0,0 426916592   6048   ??  Ss    8:27     0:00.15 /usr/libexec/usermanagerd -t 15
+root               182   0,0  0,2 426950288  28912   ??  Ss    8:27     0:00.18 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               123   0,0  0,1 426964400  16704   ??  Ss    8:27     0:00.72 /usr/sbin/systemstats --daemon
+root               173   0,0  0,1 426963712  11840   ??  Ss    8:27     0:00.22 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               157   0,0  0,1 426954560  12368   ??  Ss    8:27     0:16.21 /System/Library/CoreServices/launchservicesd
+root               163   0,0  0,1 426951520  13792   ??  Ss    8:27     0:00.50 /usr/libexec/nesessionmanager
+root               127   0,0  0,0 426912096   1424   ??  Ss    8:27     0:00.01 endpointsecurityd
+root               116   0,0  0,0 426916800   5296   ??  Ss    8:27     0:00.10 /usr/libexec/smd
+root               183   0,0  0,0 426916384   1216   ??  Ss    8:27     0:00.03 aslmanager
+root               171   0,0  0,0 426912544   1472   ??  Ss    8:27     0:00.13 /usr/libexec/dirhelper
+root               174   0,0  0,0 426912608   2784   ??  Ss    8:27     0:00.01 /usr/sbin/KernelEventAgent
+root               154   0,0  0,1 426956144  22272   ??  Ss    8:27     0:19.83 /usr/libexec/opendirectoryd
+root               150   0,0  0,0 426917264   2416   ??  Ss    8:27     0:00.24 /usr/sbin/syslogd
+root               145   0,0  0,1 426954224  23936   ??  Ss    8:27     0:00.89 /usr/libexec/kernelmanagerd
+root               156   0,0  0,2 427032864  25920   ??  Ss    8:27     0:03.38 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               177   0,0  0,2 426966032  29456   ??  Ss    8:27     0:01.42 /usr/sbin/bluetoothd
+root               169   0,0  0,0 426949984   4624   ??  Ss    8:27     0:00.03 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               165   0,0  0,0 426912592   3824   ??  Ss    8:27     0:00.02 autofsd
+root               179   0,0  0,1 426952752   8608   ??  Ss    8:27     0:01.68 /usr/libexec/sandboxd
+root               160   0,0  0,1 426951792  12672   ??  Ss    8:27     0:00.85 /usr/sbin/securityd -i
+root               172   0,0  0,0 426916208   6192   ??  Ss    8:27     0:00.06 /System/Library/CoreServices/logind
+root               181   0,0  0,1 426951136  15024   ??  Ss    8:27     0:00.37 /usr/libexec/AirPlayXPCHelper
+root               133   0,0  0,0 426950320   5952   ??  Ss+   8:27     0:00.05 /usr/libexec/remoted
+root               128   0,0  0,1 426952768  12960   ??  Ss    8:27     0:05.29 /System/Library/CoreServices/powerd.bundle/powerd
+root               139   0,0  0,0 426916784   3984   ??  Ss    8:27     0:00.20 /usr/libexec/watchdogd
+root               153   0,0  0,0 426949936   7888   ??  Ss    8:27     0:02.68 /usr/libexec/thermalmonitord
+root               143   0,0  0,3 426974464  57072   ??  Ss    8:27     0:16.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               135   0,0  0,1 426916432  11824   ??  Ss    8:27     0:00.10 /usr/libexec/keybagd -t 15
+root               178   0,0  0,0 426916336   6720   ??  Ss    8:27     0:04.51 /usr/sbin/notifyd
+root               131   0,0  0,1 426950736   9808   ??  Ss    8:27     0:00.68 /usr/libexec/amfid
+root               126   0,0  0,1 426955904  15744   ??  Ss    8:27     0:07.62 /usr/libexec/configd
+root               119   0,0  0,1 426922240  10736   ??  Ss    8:27     0:41.67 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               115   0,0  0,3 427070704  46800   ??  Ss    8:27     0:20.30 /usr/libexec/logd
+root               117   0,0  0,2 426959616  29440   ??  Ss    8:27     0:01.60 /usr/libexec/UserEventAgent (System)
+root             23188   0,0  0,0 410724336   2128 s000  R+   10:22     0:00.01 ps aux
+root                 1   0,0  0,1 426853296  23344   ??  Ss    8:27     0:36.82 /sbin/launchd
+nekori           23187   0,0  0,2 411120176  37696   ??  S    10:21     0:00.08 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+nekori           23184   0,0  0,0 410593200   1168 s000  SN   10:21     0:00.00 sleep 60
+nekori           23180   0,0  0,0 410594224   1200   ??  SN   10:21     0:00.00 sleep 60
+nekori           23175   0,0  0,0 410593200   1168   ??  SN   10:21     0:00.00 sleep 60
+nekori           23176   0,0  0,0 410593200   1168   ??  SN   10:21     0:00.00 sleep 60
+nekori           23167   0,0  0,0 410593200   1168   ??  SN   10:21     0:00.01 sleep 60
+nekori           23168   0,0  0,0 410593200   1168   ??  SN   10:21     0:00.00 sleep 60
+nekori           23157   0,0  0,1 426969168  15536   ??  S    10:21     0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           23158   0,0  0,1 426969168  13808   ??  S    10:21     0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           23125   0,0  0,2 426969728  27440   ??  S    10:19     0:00.18 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           23100   0,0  0,1 426914304  20192   ??  Ss   10:18     0:00.07 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+nekori           23099   0,0  0,5 411087216  89616   ??  Ss   10:18     0:00.83 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+nekori           23094   0,0  0,9 412129056 149600   ??  S    10:18     0:08.62 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+nekori           23062   0,0  0,2 426969728  27056   ??  S    10:17     0:00.24 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           23049   0,0  0,2 426970896  28208   ??  S    10:17     0:00.54 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+nekori           22956   0,0  0,1 426896176  12480   ??  Ss   10:14     0:00.65 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+nekori           22955   0,0  0,4 461082560  74448   ??  S    10:14     0:00.16 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=ru --service-sandbox-type=none --message-loop-type-ui --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Video Capture --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,17301775938574143691,4456337241855517396,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709041597340585
+nekori           22954   0,0  0,4 461166512  62112   ??  S    10:14     0:00.08 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=audio --message-loop-type-ui --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Audio Service --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,2254486962254215421,2499937369099039119,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709040660298736 --seatbelt-client=231
+nekori           22936   0,0  0,0 426912064   3744   ??  S    10:14     0:00.01 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+
+
+
+Только свои процессы:
+  UID   PID TTY           TIME CMD
+  501   417 ??         0:06.03 /usr/sbin/distnoted agent
+  501   418 ??         0:06.42 /usr/sbin/cfprefsd agent
+  501   420 ??         0:01.71 /usr/libexec/UserEventAgent (Aqua)
+  501   424 ??         0:00.98 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+  501   425 ??         0:03.43 /usr/sbin/universalaccessd launchd -s
+  501   426 ??         0:00.66 /usr/libexec/knowledge-agent
+  501   427 ??         0:00.77 /usr/libexec/neagent
+  501   428 ??         0:00.12 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+  501   429 ??         0:00.10 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+  501   430 ??         0:00.45 /usr/libexec/pboard
+  501   431 ??         0:00.62 /usr/libexec/pkd
+  501   432 ??         0:00.23 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+  501   433 ??         0:04.27 /System/Library/CoreServices/talagentd
+  501   434 ??         0:56.20 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+  501   435 ??         0:09.72 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  501   436 ??         0:02.01 /usr/libexec/lsd
+  501   437 ??         0:28.89 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+  501   438 ??         0:00.38 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+  501   439 ??         0:56.63 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  501   442 ??         0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+  501   443 ??         0:05.96 /usr/libexec/secd
+  501   444 ??         0:01.04 /usr/libexec/rapportd
+  501   445 ??         0:00.11 /usr/libexec/ContinuityCaptureAgent server
+  501   446 ??         0:01.23 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+  501   447 ??         0:00.23 /usr/libexec/dmd
+  501   448 ??         0:08.10 /usr/libexec/nsurlsessiond
+  501   449 ??         0:00.39 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+  501   450 ??         0:00.93 /System/Library/CoreServices/lockoutagent
+  501   451 ??         0:06.29 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+  501   452 ??         0:00.02 /System/Library/CoreServices/APFSUserAgent
+  501   453 ??         0:00.31 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501   454 ??         0:02.32 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+  501   455 ??         0:00.80 /usr/sbin/usernoted
+  501   456 ??         0:01.66 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+  501   458 ??         0:01.32 /usr/libexec/secinitd
+  501   460 ??         0:00.52 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+  501   461 ??         0:02.16 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+  501   463 ??         0:01.12 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+  501   465 ??         0:00.31 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+  501   466 ??         0:00.39 /System/Library/CoreServices/sharedfilelistd
+  501   467 ??         0:00.31 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  501   468 ??         0:00.13 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+  501   469 ??         0:01.74 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+  501   470 ??         0:01.43 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+  501   471 ??         0:03.52 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+  501   472 ??         0:00.99 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+  501   473 ??         0:14.52 /usr/libexec/trustd --agent
+  501   475 ??         0:00.59 /System/Library/CoreServices/iconservicesagent
+  501   477 ??         0:02.55 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  501   478 ??         0:01.15 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+  501   479 ??         0:11.66 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+  501   480 ??         0:00.06 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+  501   481 ??         0:00.85 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+  501   482 ??         0:03.22 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+  501   483 ??         0:00.09 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+  501   484 ??         0:02.59 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+  501   485 ??         0:01.63 /usr/libexec/triald
+  501   486 ??         0:00.72 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("ru-RU")
+  501   487 ??         0:00.05 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+  501   488 ??         0:00.11 /usr/libexec/icloudmailagent
+  501   489 ??         0:01.84 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+  501   493 ??         0:00.02 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501   494 ??         0:00.53 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+  501   495 ??         0:00.11 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+  501   496 ??         0:00.31 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+  501   497 ??         0:00.28 /System/Library/CoreServices/audioaccessoryd
+  501   498 ??         0:00.22 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+  501   499 ??         0:01.16 /usr/libexec/transparencyd
+  501   500 ??         0:14.28 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+  501   501 ??         0:00.43 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+  501   502 ??         0:00.07 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  501   503 ??         0:00.09 /usr/libexec/intelligentroutingd
+  501   505 ??         0:00.21 /usr/libexec/findmylocateagent
+  501   506 ??         0:00.14 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+  501   507 ??         0:00.19 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+  501   508 ??         0:02.46 /usr/libexec/replayd
+  501   509 ??         0:00.11 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+  501   510 ??         0:00.83 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+  501   513 ??         0:05.82 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+  501   515 ??         0:06.10 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+  501   516 ??         0:00.26 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+  501   517 ??         0:08.73 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+  501   519 ??         0:00.87 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+  501   520 ??         0:00.60 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+  501   521 ??         0:15.02 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  501   522 ??         0:00.35 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+  501   523 ??         0:02.31 /usr/libexec/sharingd
+  501   524 ??         0:00.29 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+  501   525 ??         0:00.23 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+  501   526 ??         0:00.34 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+  501   527 ??         0:02.14 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+  501   528 ??         0:01.86 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+  501   529 ??         0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+  501   532 ??         0:00.29 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+  501   533 ??         0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501   534 ??         0:03.49 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+  501   535 ??         0:09.48 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+  501   536 ??         0:00.21 /System/Library/CoreServices/pbs
+  501   537 ??         0:00.64 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+  501   538 ??         0:00.03 /System/Library/CoreServices/ReportCrash agent
+  501   539 ??         0:00.27 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+  501   541 ??         0:09.90 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+  501   542 ??         0:01.12 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+  501   543 ??         0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+  501   544 ??         0:00.22 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501   545 ??         0:00.86 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+  501   546 ??         0:00.04 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+  501   547 ??         0:00.12 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+  501   548 ??         0:01.72 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  501   549 ??         0:00.28 /usr/libexec/appleaccountd
+  501   550 ??         0:00.05 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+  501   551 ??         0:02.00 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  501   553 ??         0:01.59 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+  501   554 ??         0:02.65 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+  501   555 ??         0:00.61 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+  501   556 ??         0:00.20 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+  501   557 ??         0:05.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+  501   558 ??         0:00.52 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+  501   559 ??         0:05.41 /usr/libexec/networkserviceproxy
+  501   560 ??         0:00.02 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+  501   561 ??         0:00.14 /usr/libexec/avconferenced
+  501   562 ??         0:00.99 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+  501   563 ??         0:00.14 /usr/libexec/milod
+  501   564 ??         0:22.18 /opt/homebrew/opt/mongodb-community/bin/mongod --config /opt/homebrew/etc/mongod.conf
+  501   565 ??         0:02.70 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+  501   566 ??         0:00.52 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+  501   569 ??         0:03.85 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+  501   575 ??         0:00.12 /System/Library/Image Capture/Support/icdd
+  501   576 ??         0:00.14 /Library/Application Support/Logitech.localized/LogiRightSightForWebcams/LogiRightSight.app/Contents/MacOS/LogiRightSight
+  501   578 ??         0:01.05 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/FrontendAgent.app/Contents/MacOS/FrontendAgent
+  501   580 ??         0:00.41 /Library/Application Support/iStat Menus 6/iStatMenusAgent.app/Contents/MacOS/iStatMenusAgent
+  501   581 ??         0:00.26 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+  501   583 ??         0:36.42 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app/Contents/MacOS/logioptionsplus_agent --launchd
+  501   584 ??         0:00.20 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+  501   586 ??         1:18.55 /Library/Application Support/iStat Menus 6/iStat Menus Status.app/Contents/MacOS/iStat Menus Status
+  501   588 ??         0:00.55 /System/Library/CoreServices/diagnostics_agent
+  501   589 ??         0:01.66 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+  501   590 ??         0:00.98 /usr/libexec/remindd
+  501   591 ??         0:00.48 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+  501   594 ??         0:01.34 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+  501   595 ??         0:06.05 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+  501   596 ??         0:00.27 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+  501   597 ??         0:00.03 /System/Applications/Tips.app/Contents/PlugIns/TipsWidgetExtension.appex/Contents/MacOS/TipsWidgetExtension
+  501   601 ??         0:03.06 /usr/libexec/searchpartyuseragent
+  501   602 ??         0:01.86 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+  501   604 ??         0:01.21 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+  501   605 ??         0:00.05 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+  501   606 ??         0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+  501   607 ??         0:00.26 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+  501   608 ??         0:00.67 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+  501   609 ??         0:00.44 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+  501   615 ??         0:08.53 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+  501   620 ??         0:00.63 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+  501   626 ??         0:00.06 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetItems.appex/Contents/MacOS/FindMyWidgetItems
+  501   636 ??         0:01.58 /usr/libexec/swcd
+  501   648 ??         0:00.05 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget
+  501   661 ??         0:00.28 -zsh
+  501   671 ??         0:00.03 /System/Applications/Shortcuts.app/Contents/PlugIns/ShortcutsWidgetExtension.appex/Contents/MacOS/ShortcutsWidgetExtension
+  501   672 ??         0:00.24 /usr/libexec/swtransparencyd
+  501   680 ??         0:00.26 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+  501   682 ??         0:00.06 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+  501   684 ??         0:00.04 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+  501   685 ??         0:00.11 /usr/libexec/seserviced
+  501   687 ??         0:00.16 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+  501   691 ??         0:02.03 /usr/libexec/linkd
+  501   698 ??         0:00.06 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+  501   700 ??         0:00.08 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget
+  501   717 ??         0:00.03 /usr/libexec/spindump_agent
+  501   721 ??         0:00.50 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+  501   728 ??         0:00.05 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetPeople.appex/Contents/MacOS/FindMyWidgetPeople
+  501   755 ??         0:00.06 /System/Applications/Reminders.app/Contents/PlugIns/RemindersWidgetExtension.appex/Contents/MacOS/RemindersWidgetExtension
+  501   756 ??         0:00.64 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+  501   763 ??         0:00.23 /System/Library/CoreServices/ScopedBookmarkAgent
+  501   768 ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501   770 ??         0:00.93 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+  501   776 ??         0:00.05 /System/Library/CoreServices/PeopleViewService.app/Contents/PlugIns/PeopleWidget_macOSExtension.appex/Contents/MacOS/PeopleWidget_macOSExtension
+  501   801 ??         0:00.08 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+  501   836 ??         0:00.07 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
+  501   860 ??         0:00.07 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/MacOS/SafariWidgetExtension
+  501   902 ??         0:00.05 /System/Applications/Notes.app/Contents/PlugIns/com.apple.Notes.WidgetExtension.appex/Contents/MacOS/com.apple.Notes.WidgetExtension
+  501   915 ??         0:00.03 /System/Applications/Photos.app/Contents/PlugIns/PhotosReliveWidget.appex/Contents/MacOS/PhotosReliveWidget
+  501  5306 ??         0:05.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+  501  6693 ??         0:05.97 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/Creative Cloud Content Manager.node /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../js/main.js
+  501  7604 ??         0:00.56 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+  501  7646 ??         0:00.14 /usr/libexec/diagnosticextensionsd
+  501  7647 ??         0:02.19 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+  501  7648 ??         0:02.07 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+  501  7649 ??         0:00.34 /System/Library/Frameworks/FinanceKit.framework/financed
+  501  7763 ??         0:00.16 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+  501  7768 ??         0:00.28 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker -launchedbyvulcan /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/Creative Cloud Content Manager.node
+  501  7769 ??         0:00.62 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+  501  7773 ??         0:00.07 /usr/libexec/findmydevice-user-agent
+  501  7777 ??         0:00.25 /usr/libexec/gamecontrolleragentd
+  501  7779 ??         0:00.41 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+  501  7781 ??         0:00.28 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+  501  7782 ??         0:00.24 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+  501  7783 ??         0:00.14 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+  501  7796 ??         0:04.31 /usr/libexec/siriknowledged
+  501  7797 ??         0:00.22 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+  501  7798 ??         0:00.02 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+  501  7800 ??         0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+  501  7803 ??         0:01.05 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+  501  7805 ??         0:02.15 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+  501  7807 ??         0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+  501  7820 ??         0:01.08 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+  501  7824 ??         0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+  501  7828 ??         0:00.46 /usr/libexec/promotedcontentd
+  501  7829 ??         0:00.38 /System/Cryptexes/App/usr/libexec/webinspectord
+  501  7830 ??         0:00.31 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+  501  7833 ??         0:00.27 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+  501  7852 ??         0:00.10 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+  501  7855 ??         0:00.09 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+  501  7858 ??         0:01.11 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+  501  7868 ??         0:00.23 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+  501  7869 ??         0:00.10 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501  7870 ??         0:00.33 /usr/libexec/adprivacyd
+  501  7871 ??         0:00.14 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+  501  7872 ??         0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+  501  7873 ??         0:00.04 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+  501  7874 ??         0:00.02 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+  501  7875 ??         0:00.05 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+  501  7876 ??         0:00.02 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+  501  7879 ??         0:00.04 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("ru-RU")
+  501  7880 ??         0:00.23 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("ru-RU")
+  501  7881 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7882 ??         0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AUCrashHandlerService.xpc/Contents/MacOS/AUCrashHandlerService
+  501  7883 ??         0:00.03 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("ru-RU")
+  501  7884 ??         0:00.03 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("ru-RU")
+  501  7885 ??         0:00.07 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("ru-RU")
+  501  7887 ??         0:00.06 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("ru-RU")
+  501  7888 ??         0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7889 ??         0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7890 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7891 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7892 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  7893 ??         0:00.04 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+  501  7894 ??         0:00.04 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+  501  7926 ??         0:00.36 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+  501  7927 ??         0:00.32 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+  501  7929 ??         0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+  501  7933 ??         0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501  7934 ??         0:00.07 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+  501  7936 ??         0:00.12 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension
+  501  7937 ??         0:00.10 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension
+  501  7947 ??         0:05.54 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+  501  7948 ??         0:00.08 /usr/libexec/keychainsharingmessagingd
+  501  7953 ??         0:00.24 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+  501  7955 ??         0:00.96 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+  501  7956 ??         0:00.28 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+  501  7981 ??         0:00.26 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+  501  7993 ??         0:00.22 /usr/libexec/inputanalyticsd
+  501  7995 ??         0:13.95 /usr/libexec/duetexpertd
+  501  7996 ??         0:00.50 /usr/libexec/mlhostd
+  501  7997 ??         0:00.86 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+  501  7998 ??         0:00.66 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+  501  7999 ??         0:00.33 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501  8010 ??         0:00.13 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+  501  8017 ??         0:00.12 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+  501  8025 ??         0:00.04 /usr/libexec/feedbackd
+  501  8033 ??         0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8036 ??         0:00.67 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+  501  8039 ??         0:00.09 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+  501  8043 ??         0:00.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+  501  8056 ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8057 ??         3:41.51 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word
+  501  8058 ??         0:00.04 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+  501  8060 ??         0:00.06 /usr/libexec/metrickitd
+  501  8061 ??         0:00.33 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+  501  8062 ??         0:00.21 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+  501  8063 ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8068 ??         0:01.23 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501  8069 ??         0:00.28 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501  8070 ??         0:04.06 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+  501  8071 ??         0:00.72 /usr/libexec/naturallanguaged
+  501  8072 ??         0:00.26 /usr/libexec/keyboardservicesd
+  501  8074 ??         0:00.07 /usr/libexec/betaenrollmentagent
+  501  8105 ??         0:00.05 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+  501  8153 ??         2:45.66 /Applications/Yandex.app/Contents/MacOS/Yandex
+  501  8155 ??         0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8157 ??         0:00.01 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/Crashpad --metrics-dir=/Users/nekori/Library/Application Support/Yandex/YandexBrowser --url=https://crash-reports.browser.yandex.net/submit --annotation=channel= --annotation=machine_id=8CED1CBE9D8D5990AF5BBFDC3DDBF5476CFEABE400000001D7 --annotation=main_process_pid=8153 --annotation=plat=OS X --annotation=prod=Yandex_Mac --annotation=ver=26.8.3.1016 --handshake-fd=5
+  501  8165 ??         1:17.70 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=gpu-process --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAOAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --gpu-process-kind=sandboxed --shared-files --metrics-shmem-handle=1752395122,r,14308444201024114489,16331936048619630397,262144 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708988185955192 --seatbelt-client=19
+  501  8166 ??         0:09.90 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=network --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Network Service --shared-files --metrics-shmem-handle=1752395122,r,15669824625023096609,15500044384032095609,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708989122997041 --seatbelt-client=19
+  501  8173 ??         0:00.43 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=service --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Storage Service --shared-files --metrics-shmem-handle=1752395122,r,12493562412313087854,16989299784031052805,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708990060038890 --seatbelt-client=33
+  501  8178 ??         0:00.08 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+  501  8179 ??         0:00.55 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+  501  8180 ??         0:00.46 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --ya-custo-process --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186902008 --shared-files --metrics-shmem-handle=1752395122,r,16461379702468053978,2165937154137037023,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708997556373682 --seatbelt-client=103
+  501  8181 ??         0:01.22 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --ya-custo-process --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186910530 --shared-files --metrics-shmem-handle=1752395122,r,1302884425786569842,1268703893131397191,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708998493415531 --seatbelt-client=127
+  501  8184 ??         0:23.88 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1186956039 --shared-files --metrics-shmem-handle=1752395122,r,3236920922713259911,5415784147872062345,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708995682289984 --seatbelt-client=94
+  501  8191 ??         0:04.11 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1791603378026915 --launch-time-ticks=1188272748 --shared-files --metrics-shmem-handle=1752395122,r,14569330342077112580,3070135743819871065,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708994745248135 --seatbelt-client=143
+  501  8193 ??         0:00.08 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+  501  8201 ??         0:00.56 /System/iOSSupport/System/Library/PrivateFrameworks/HomeEnergyDaemon.framework/Support/homeenergyd
+  501  8223 ??         0:00.60 /usr/libexec/tipsd
+  501  8224 ??         0:00.24 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=autofill.mojom.TflPredictionsService --lang=ru --service-sandbox-type=utility --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Autofill Tfl Predictions --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,7443342150487422835,10389339495579445693,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709010674959568 --seatbelt-client=62
+  501  8244 ??         1:05.37 /Applications/Happ.localized/Happ.app/Contents/MacOS/Happ
+  501  8250 ??         1:16.59 /Applications/Happ.localized/Happ.app/Contents/PlugIns/Tunnel.appex/Contents/MacOS/Tunnel -AppleLanguages ("ru-RU")
+  501  8253 ??         5:17.16 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=31 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1473974401 --shared-files --metrics-shmem-handle=1752395122,r,17942405703799160706,1823825945206864672,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709015360168813 --seatbelt-client=59
+  501  8254 ??         0:04.01 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --yagp --mse-video-buffer-size-limit-mb=10 --mse-audio-buffer-size-limit-mb=1 --enable-ignition --enable-instaserp --skia-resource-cache-limit-mb=10 --skia-font-cache-limit-mb=1 --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=32 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1480683890 --shared-files --metrics-shmem-handle=1752395122,r,16792996257579062197,10641608068723130049,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709016297210662 --seatbelt-client=64
+  501  8255 ??         0:00.08 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+  501  8256 ??         0:05.65 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=33 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=1483008993 --shared-files --metrics-shmem-handle=1752395122,r,8500270072758364483,8299317593994139865,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709017234252511 --seatbelt-client=64
+  501  8280 ??         0:00.80 /usr/libexec/MTLAssetUpgraderD
+  501  8281 ??         0:00.04 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+  501  8307 ??         0:00.56 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+  501  8308 ??         0:01.73 /System/Library/ExtensionKit/Extensions/OfficeThumbnailExtension.appex/Contents/MacOS/OfficeThumbnailExtension
+  501  8309 ??         0:02.43 /System/Library/ExtensionKit/Extensions/WebThumbnailExtension.appex/Contents/MacOS/WebThumbnailExtension
+  501  8310 ??         0:01.92 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+  501  8314 ??         0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  8316 ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8368 ??         0:01.05 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501  8370 ??         0:00.24 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501  8374 ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  501  8376 ??         0:00.19 /System/Library/ExtensionKit/Extensions/ImageThumbnailExtension.appex/Contents/MacOS/ImageThumbnailExtension
+  501  8401 ??         0:00.71 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ColorSampler.xpc/Contents/MacOS/ColorSampler
+  501  8551 ??         0:00.74 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=csd_tflite_model.mojom.CSDTfLiteModelServiceFactory --lang=ru --service-sandbox-type=utility --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=tflite_model --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,13186796381063334950,14162832565519741120,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709032226922095 --seatbelt-client=75
+  501  8554 ??         0:00.12 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+  501  8555 ??         0:00.01 /System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices
+  501  8567 ??         0:13.54 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=2684687099 --shared-files --metrics-shmem-handle=1752395122,r,3513002043326749407,13208443355418134772,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190708993808206286 --seatbelt-client=75
+  501  8568 ??         0:00.16 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper (Renderer).app/Contents/MacOS/Yandex Helper (Renderer) --type=renderer --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --help-url=https://api.browser.yandex.ru/redirect/help/ --user-agent-info --translate-security-origin=https://browser.translate.yandex.net/ --enable-instaserp --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=51 --time-ticks-at-unix-epoch=-1791603378026915 --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --launch-time-ticks=2688933361 --shared-files --metrics-shmem-handle=1752395122,r,4099743757949388579,14507410051174495499,2097152 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709034101005793 --seatbelt-client=220
+  501  8604 ??         0:00.33 cloudphotod
+  501  8607 ??         0:00.07 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+  501  8617 ??         0:00.23 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+  501  8626 ??         0:00.02 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+  501  8634 ??         0:00.04 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+  501  8687 ??         0:00.35 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
+  501  8703 ??         0:04.83 /Applications/Telegram.app/Contents/MacOS/Telegram -noupdate
+  501  8704 ??         0:00.08 /usr/libexec/biomesyncd
+  501  8706 ??         0:00.02 /Applications/Telegram.app/Contents/Helpers/crashpad_handler --database=/Users/nekori/Library/Application Support/Telegram Desktop/tdata/dumps --annotation=ApiId=2040 --annotation=Binary=Telegram.app --annotation=Launched=10.10.2026 10:02:18 --annotation=Platform=MacOS --annotation=UserTag=880b1adbb9ed947 --annotation=Version=7003000 --handshake-fd=4
+  501  8719 ??         0:00.19 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+  501  8847 ??         0:00.07 -zsh
+  501  8950 ??         0:00.07 -zsh
+  501  9656 ??         0:00.27 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+  501 15582 ??         0:17.63 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+  501 15620 ??         0:00.07 -zsh
+  501 15649 ??         0:00.07 -zsh
+  501 22637 ??         0:00.32 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+  501 22639 ??         0:00.26 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  501 22719 ??         0:00.12 /System/Library/ExtensionKit/Extensions/PackageThumbnailExtension.appex/Contents/MacOS/PackageThumbnailExtension
+  501 22724 ??         0:00.03 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+  501 22756 ??         0:00.62 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 22936 ??         0:00.01 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+  501 22954 ??         0:00.09 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=audio --message-loop-type-ui --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Audio Service --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,2254486962254215421,2499937369099039119,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709040660298736 --seatbelt-client=231
+  501 22955 ??         0:00.17 /Applications/Yandex.app/Contents/Frameworks/Yandex Framework.framework/Versions/26.8.3.1016/Helpers/Yandex Helper.app/Contents/MacOS/Yandex Helper --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=ru --service-sandbox-type=none --message-loop-type-ui --user-id=1751F9B1-7A69-4379-903F-B9D7845CBD54 --brand-id=yandex --metrics-client-id=cd352bbd-ff51-41fa-897f-cf77766013e7 --process-name=Video Capture --openh264_path=/Users/nekori/Library/Application Support/Yandex/YandexBrowser/OpenH264/libopenh264.dylib --openh264_hash=88c02828c54d98ef195dee58dae8d32200eeca24 --shared-files --metrics-shmem-handle=1752395122,r,17301775938574143691,4456337241855517396,524288 --field-trial-handle=1718379636,r,14554106810842111436,10691338615105693143,262144 --disable-features=Fledge,InterestGroupStorage,PrivateAggregationApi,PrivateAggregationApiProtectedAudienceAdditionalExtensions --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8414608793923301330,5451023927300416585,4 --trace-process-track-uuid=3190709041597340585
+  501 22956 ??         0:00.65 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  501 23049 ??         0:00.65 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23094 ??         0:11.72 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+  501 23099 ??         0:00.85 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501 23100 ??         0:00.08 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501 23157 ??         0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23187 ??         0:00.09 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+  501 23190 ??         0:00.17 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23197 ??         0:00.00 sleep 60
+  501 23198 ??         0:00.00 sleep 60
+  501 23199 ??         0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23200 ??         0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23201 ??         0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501 23208 ??         0:00.00 sleep 60
+  501 23209 ??         0:00.00 sleep 60
+  501 23213 ??         0:00.00 sleep 60
+    0 22211 ttys000    0:00.02 login -pf nekori /bin/zsh
+  501 22212 ttys000    0:00.19 -zsh
+  501 22224 ttys000    0:00.06 -zsh
+  501 23217 ttys000    0:00.00 sleep 60
+    0 23219 ttys000    0:00.01 ps -u nekori
+
+
+
+Топ по CPU
+Processes: 626 total, 2 running, 1 stuck, 623 sleeping, 2888 threads 
+2026/10/10 10:26:18
+Load Avg: 2.05, 1.96, 2.22 
+CPU usage: 8.54% user, 14.7% sys, 77.38% idle 
+SharedLibs: 799M resident, 178M data, 119M linkedit.
+MemRegions: 223381 total, 4726M resident, 640M private, 3106M shared.
+PhysMem: 15G used (1915M wired, 764M compressor), 527M unused.
+VM: 260T vsize, 5703M framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 500296/633M in, 335006/267M out.
+Disks: 585717/10G read, 281084/6439M written.
+
+PID    COMMAND          %CPU TIME     #TH   #WQ  #PORTS MEM   PURG  CMPRS PGRP  PPID  STATE    BOOSTS      %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES JETPRI USER                  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+23319  head             0.0  00:00.00 1     0    11     977K  0B    0B    23318 22212 sleeping *0[1]       0.00000 0.00000    501 267     58    24      12      138      66       7        2       0       0.0   0      0      180    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23318  top              0.0  00:00.25 1/1   0    17     4305K 0B    0B    23318 22212 running  *0[1]       0.00000 0.00000    0   1182    99    484885  242442  3308     247266   39       2       0       0.0   0      0      180    root                  N/A    N/A   N/A   N/A   N/A   N/A  
+23315  AXVisualSupportA 0.0  00:00.07 3     1    148    8978K 0B    0B    23315 1     sleeping *0[7]       0.00000 0.00000    501 3016    229   623     150     2310     1604     681      22      3       0.0   0      0      100    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23314  mdworker_shared  0.0  00:00.11 3     1    49     3249K 0B    0B    23314 1     sleeping *0[1]       0.00000 0.00000    501 1877    155   397     158     1532     523      146      18      1       0.0   0      0      0      nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23313  sleep            0.0  00:00.00 1     0    11     977K  0B    0B    22224 22224 sleeping *0[1]       0.00000 0.00000    501 251     53    26      13      169      67       2        1       0       0.0   0      0      180    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23304  sleep            0.0  00:00.00 1     0    11     961K  0B    0B    661   661   sleeping *0[1]       0.00000 0.00000    501 256     49    26      13      168      67       2        1       0       0.0   0      0      180    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23300  sleep            0.0  00:00.00 1     0    11     961K  0B    0B    15649 15649 sleeping *0[1]       0.00000 0.00000    501 267     56    26      13      168      67       4        2       0       0.0   0      0      180    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+23299  sleep            0.0  00:00.00 1     0    11     961K  0B    0B    15620 15620 sleeping *0[1]       0.00000 0.00000    501 260     56    26      13      168      67       2        1       0       0.0   0      0      180    nekori                N/A    N/A   N/A   N/A   N/A   N/A  
+
+
+
+
+Найти процесс по имени
+
+
+
+
+Запустить фоновый процесс
+PID: 23351
+
+
+
+
+
+Проверить
+  PID TTY           TIME CMD
+23351 ttys000    0:00.01 sleep 300
